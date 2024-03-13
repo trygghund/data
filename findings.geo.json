@@ -1,0 +1,2901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.985113818175373,
+          55.58389963141185
+        ]
+      },
+      "properties": {
+        "title": "Stadionparken",
+        "category": "Kött med vasst föremål",
+        "date": "2020-11-17",
+        "description": "Glaskross, korvbitar med häftstift hundrastplats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.974688165910324,
+          55.59509729165243
+        ]
+      },
+      "properties": {
+        "title": "Rönneholmsparken",
+        "category": "Övrigt",
+        "date": "2020-11-23",
+        "description": "Glaskross hundrastplats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016530153820993,
+          55.60448328776785
+        ]
+      },
+      "properties": {
+        "title": "Exercisgatan",
+        "category": "Kött med vasst föremål",
+        "date": "2020-12-03",
+        "description": "Korv med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.041969345921325,
+          55.6094264960064
+        ]
+      },
+      "properties": {
+        "title": "Sperlingsgatan 9",
+        "category": "Kött med vasst föremål",
+        "date": "2020-12-14",
+        "description": "Korv med glas och häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016624,
+          55.604466
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2020-12-30",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015221,
+          55.603305
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2020-12-30",
+        "description": "Någon har placerat fyra bullar innehållandes glas bitar i en park i syfte att skada hundar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014925549972062,
+          55.60288226709824
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan 34",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2020-12-30",
+        "description": "Någon har lagt ut en brödbit med glassplitter på marken i syfte att skada djur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97469546387726,
+          55.59499487316621
+        ]
+      },
+      "properties": {
+        "title": "Rönneholmsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-03",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016502,
+          55.597603
+        ]
+      },
+      "properties": {
+        "title": "Mäster Henriksgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-07",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01567651502491,
+          55.597869813893986
+        ]
+      },
+      "properties": {
+        "title": "St Knuts Väg",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-07",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014780457379358,
+          55.582847347104064
+        ]
+      },
+      "properties": {
+        "title": "Sevedsplan",
+        "category": "Kött med vasst föremål",
+        "date": "2021-01-07",
+        "description": "Kycklingklubbor med spik och glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01463667680725,
+          55.5825884365663
+        ]
+      },
+      "properties": {
+        "title": "Sevedsplan",
+        "category": "Kött med vasst föremål",
+        "date": "2021-01-07",
+        "description": "Kycklingklubbor med spik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016502,
+          55.597603
+        ]
+      },
+      "properties": {
+        "title": "Mäster Henriksgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-08",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015257869620365,
+          55.59679638343081
+        ]
+      },
+      "properties": {
+        "title": "Mäster Henriksgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-08",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012312478733838,
+          55.597931274818116
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan 6",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-08",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.041969345921325,
+          55.6094264960064
+        ]
+      },
+      "properties": {
+        "title": "Sperlingsgatan 9",
+        "category": "Kött med vasst föremål",
+        "date": "2021-01-19",
+        "description": "Bollar av falukorv med glas samt bollar med kyckling med spik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020657277665096,
+          55.5964403854344
+        ]
+      },
+      "properties": {
+        "title": "Spånehusvägen 63",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-19",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014555440100022,
+          55.59758658044791
+        ]
+      },
+      "properties": {
+        "title": "Kamrergatan 29",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-19",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022517557992701,
+          55.592351803516294
+        ]
+      },
+      "properties": {
+        "title": "Torekovsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-01-19",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022818933876533,
+          55.59239908789753
+        ]
+      },
+      "properties": {
+        "title": "Torekovsgatan 18",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-01",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.023496641570272,
+          55.583600787979705
+        ]
+      },
+      "properties": {
+        "title": "Uddeholmsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-03",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022674340079291,
+          55.59306441722605
+        ]
+      },
+      "properties": {
+        "title": "Bodekullsgatan 23",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-04",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.021204950015658,
+          55.581257645939644
+        ]
+      },
+      "properties": {
+        "title": "Augustenborgsgatan 3",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-07",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022205741637379,
+          55.580309606214286
+        ]
+      },
+      "properties": {
+        "title": "Särlagatan 13",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-12",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983380461228835,
+          55.59760775567437
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen",
+        "category": "Kött med vasst föremål",
+        "date": "2021-02-16",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.984704233706307,
+          55.59000600050599
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 2",
+        "category": "Kött med vasst föremål",
+        "date": "2021-02-18",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022205741637379,
+          55.580309606214286
+        ]
+      },
+      "properties": {
+        "title": "Särlagatan 13",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-02-22",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.018993839043027,
+          55.584275596090464
+        ]
+      },
+      "properties": {
+        "title": "Lönngatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-16",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991446936847035,
+          55.59910379693838
+        ]
+      },
+      "properties": {
+        "title": "Thottsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-16",
+        "description": "Bullar med metallföremål och glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01247547218486,
+          55.58697093428287
+        ]
+      },
+      "properties": {
+        "title": "Lönngatan 4",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-16",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011374899218213,
+          55.58721632016571
+        ]
+      },
+      "properties": {
+        "title": "Nobelvägen/Spårvägsgata",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-24",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012598318069651,
+          55.59772836735268
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan 14",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-25",
+        "description": "Bullar med rakblad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007698930370362,
+          55.59840974774287
+        ]
+      },
+      "properties": {
+        "title": "August Palms Plats 1",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-25",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007569779209026,
+          55.59835587104161
+        ]
+      },
+      "properties": {
+        "title": "August Palms Plats",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-25",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01137764387595,
+          55.598007470327055
+        ]
+      },
+      "properties": {
+        "title": "Henrik Smithsgatan 9",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-25",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014555440100022,
+          55.59758658044791
+        ]
+      },
+      "properties": {
+        "title": "Kamrergatan 29",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-03-25",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007037027488211,
+          55.59708540858074
+        ]
+      },
+      "properties": {
+        "title": "Torpgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-04-01",
+        "description": "Bullar med rakblad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991446936847035,
+          55.59910379693838
+        ]
+      },
+      "properties": {
+        "title": "Thottsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-04-01",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03129329167588,
+          55.58314370652908
+        ]
+      },
+      "properties": {
+        "title": "Olofsborgsgatan 3",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-04-01",
+        "description": "Bullar med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011784030148466,
+          55.59822042302554
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-04-01",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991446936847035,
+          55.59910379693838
+        ]
+      },
+      "properties": {
+        "title": "Thottsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-04-22",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98340872161503,
+          55.58925171602338
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen/John Ericssons väg",
+        "category": "Kött med vasst föremål",
+        "date": "2021-05-17",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982468182960272,
+          55.590077968604916
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2021-05-21",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98344332301301,
+          55.591849155932245
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen/Randersv",
+        "category": "Kött med vasst föremål",
+        "date": "2021-05-25",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983342507325894,
+          55.590239691306635
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 3",
+        "category": "Kött med vasst föremål",
+        "date": "2021-05-26",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.025249167559458,
+          55.590738467218785
+        ]
+      },
+      "properties": {
+        "title": "Amiralsgatan 88",
+        "category": "Kött med vasst föremål",
+        "date": "2021-05-26",
+        "description": "Kycklingbit med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014755456671303,
+          55.59660674346004
+        ]
+      },
+      "properties": {
+        "title": "Mäster Danielsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-07",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02395320309914,
+          55.591949173685
+        ]
+      },
+      "properties": {
+        "title": "Kiviksgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-11",
+        "description": "Bullar med vasst föremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.024161593041834,
+          55.5927741923473
+        ]
+      },
+      "properties": {
+        "title": "Bodekullsgatan 29",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-13",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.058058023435784,
+          55.57821547172244
+        ]
+      },
+      "properties": {
+        "title": "Agnesfridsvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-16",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.018453739071894,
+          55.5941363107579
+        ]
+      },
+      "properties": {
+        "title": "Karlskronaplan 8",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-19",
+        "description": "Bulle med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01494959998841,
+          55.60289932814433
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan 34",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-29",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.024984441927483,
+          55.574388261392926
+        ]
+      },
+      "properties": {
+        "title": "Nydalavägen 7",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-31",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012106166033103,
+          55.59625546933432
+        ]
+      },
+      "properties": {
+        "title": "Spångatan 40",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-31",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00502090132263,
+          55.59894320726407
+        ]
+      },
+      "properties": {
+        "title": "Lugna Gatan 60",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-31",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.019059745666173,
+          55.59376300349587
+        ]
+      },
+      "properties": {
+        "title": "Karlskronaplan 9",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-08-31",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0277608,
+          55.5943686
+        ]
+      },
+      "properties": {
+        "title": "Östra Farmvägen",
+        "category": "Kött med vasst föremål",
+        "date": "2021-09-01",
+        "description": "Köttbulle med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.004782642608484,
+          55.598770422843955
+        ]
+      },
+      "properties": {
+        "title": "Lugna Gatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-01",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.996721843949437,
+          55.60076576785337
+        ]
+      },
+      "properties": {
+        "title": "Regementsgatan 20",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-11",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007950544619826,
+          55.60055409075159
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan 10",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-12",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.005348671794302,
+          55.600282383827675
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan 3",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-12",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.975452,
+          55.594857
+        ]
+      },
+      "properties": {
+        "title": "Rönneholmsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-13",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.992072429714733,
+          55.60346007655793
+        ]
+      },
+      "properties": {
+        "title": "Kungsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-18",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991975873148759,
+          55.60351462645468
+        ]
+      },
+      "properties": {
+        "title": "Kungsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-18",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991264699971804,
+          55.60574186084815
+        ]
+      },
+      "properties": {
+        "title": "Malmöhusvägen 1",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-19",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01600612740268,
+          55.57667418085195
+        ]
+      },
+      "properties": {
+        "title": "Rödkullastigen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-20",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99429000009188,
+          55.59693701612688
+        ]
+      },
+      "properties": {
+        "title": "Östra Rönneholmsvägen 2",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-23",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.994971489357555,
+          55.59649057658568
+        ]
+      },
+      "properties": {
+        "title": "Teaterparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-24",
+        "description": "Bullar med rakblad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98885482320255,
+          55.60191309512292
+        ]
+      },
+      "properties": {
+        "title": "Slottsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-24",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.925695657291051,
+          55.55974109295759
+        ]
+      },
+      "properties": {
+        "title": "Bunkeflovägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-09-25",
+        "description": "Bullar med spik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.987338942380026,
+          55.591102420380494
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-10-02",
+        "description": "Bullar med metallföremål och korv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.992811362496317,
+          55.58304211765445
+        ]
+      },
+      "properties": {
+        "title": "Stadionparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-10-09",
+        "description": "Bullar med metallföremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016618056987042,
+          55.57612213018155
+        ]
+      },
+      "properties": {
+        "title": "Rödkullastigen 1A",
+        "category": "Övrigt",
+        "date": "2021-11-08",
+        "description": "Spik i marken runt träd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.074505137071325,
+          55.603630759240126
+        ]
+      },
+      "properties": {
+        "title": "Bulltofta motionsområde",
+        "category": "Övrigt",
+        "date": "2021-11-11",
+        "description": "Brödsmulor med glas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012976329456176,
+          55.59878758409923
+        ]
+      },
+      "properties": {
+        "title": "Kamrergatan ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-11-24",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.025680114087969,
+          55.589496387518544
+        ]
+      },
+      "properties": {
+        "title": "Vitemöllegatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-11-24",
+        "description": "Bullar med rakblad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020988489910595,
+          55.59230960069908
+        ]
+      },
+      "properties": {
+        "title": "Abbekåsgatan 13",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-11-24",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022475612701536,
+          55.59249003022858
+        ]
+      },
+      "properties": {
+        "title": "Torekovsplan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2021-11-24",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011754772524052,
+          55.58576762231428
+        ]
+      },
+      "properties": {
+        "title": "Rosenlundsgatan",
+        "category": "Kött med vasst föremål",
+        "date": "2021-12-22",
+        "description": "Korv med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000798336629268,
+          55.5698144430504
+        ]
+      },
+      "properties": {
+        "title": "Kulladalsstigen",
+        "category": "Övrigt",
+        "date": "2022-01-05",
+        "description": "Någon har lagt ut misstänkt preparerade köttbullar vid Kulladalsstigen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.052309799634445,
+          55.60556160025719
+        ]
+      },
+      "properties": {
+        "title": "Mölledalsgatan",
+        "category": "Kött med vasst föremål",
+        "date": "2022-01-24",
+        "description": "Korv med skruv och tabletter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014125787892922,
+          55.60187820487856
+        ]
+      },
+      "properties": {
+        "title": "Sturegatan",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-07",
+        "description": "Köttbulle med spik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.992929223914555,
+          55.59472295708296
+        ]
+      },
+      "properties": {
+        "title": "Roskildevägen/Karl Gustavs väg",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-02-07",
+        "description": "Tavelspikar i en bulle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00862213052029,
+          55.60370786500615
+        ]
+      },
+      "properties": {
+        "title": "Södra Promenaden",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-02-13",
+        "description": "Bullar med metallföremål, rakblad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982668,
+          55.58683
+        ]
+      },
+      "properties": {
+        "title": "Hallingsgatan 5",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-02-14",
+        "description": "Bullar med metallföremål, klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981320358911832,
+          55.59016886110066
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-14",
+        "description": "Ben med metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983289427841983,
+          55.589204232857846
+        ]
+      },
+      "properties": {
+        "title": "John Ericssons väg/Mariedalsvägen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-16",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98365378870587,
+          55.59418417055552
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen 50",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-16",
+        "description": "Köttbullar med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982989746779339,
+          55.58963647551177
+        ]
+      },
+      "properties": {
+        "title": "John Ericssons väg 57",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-17",
+        "description": "Köttbullar med stift från häftpistol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983771058405638,
+          55.589685770760674
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen 68",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-17",
+        "description": "Köttbullar med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983634619564201,
+          55.59026254503208
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-18",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.072277919531121,
+          55.582377686650744
+        ]
+      },
+      "properties": {
+        "title": "Högatorpsvägen 35",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-02-18",
+        "description": "Bullar med metallföremål i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982817945821383,
+          55.60185458554054
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen 4A",
+        "category": "Kött med vasst föremål",
+        "date": "2022-02-18",
+        "description": "Köttbullar med häftklammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981429029448067,
+          55.58658324999785
+        ]
+      },
+      "properties": {
+        "title": "Lorensborgsgatan 11A",
+        "category": "Övrigt",
+        "date": "2022-03-12",
+        "description": "Preparerad brödbit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981297811021042,
+          55.59012656106286
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-03-15",
+        "description": "Ben preparerat med metallbitar som liknar häftklammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007317936481272,
+          55.59826069438901
+        ]
+      },
+      "properties": {
+        "title": "August Palms Plats",
+        "category": "Övrigt",
+        "date": "2022-04-05",
+        "description": "Okänt, preparerat med amfetamin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990611288178663,
+          55.59057314239232
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-07",
+        "description": "Åtta köttbullar med häftklammer i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9831367032264,
+          55.59022732142126
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 3b",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-10",
+        "description": "Köttbullar med nitar och spikar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981298903770776,
+          55.59020478012473
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-18",
+        "description": "Sju bitar korv med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981298903770776,
+          55.59020478012473
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-18",
+        "description": "Ölkorv med med häftstiftsklamrar och andra vassa föremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.923525751149247,
+          55.58870783823257
+        ]
+      },
+      "properties": {
+        "title": "Övägen ",
+        "category": "Övrigt",
+        "date": "2022-04-18",
+        "description": "Bulle av risgrynsgröt innehållande hund- eller kattgodis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981298903770776,
+          55.59020478012473
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-19",
+        "description": "Korvar med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97460527671821,
+          55.5911321225655
+        ]
+      },
+      "properties": {
+        "title": "John Ericssons Väg 77 ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-19",
+        "description": "Korvbitar med häftklamrar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98359501038755,
+          55.59006704150866
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen längs mariedalsvägen",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-20",
+        "description": "Korvbitar med häftklammer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98125597184691,
+          55.59013202746387
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-04-23",
+        "description": "Köttbulle med småspikar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.072494576750234,
+          55.581084410420566
+        ]
+      },
+      "properties": {
+        "title": "Stenkällevägen/Sergeantgatan",
+        "category": "Övrigt",
+        "date": "2022-05-08",
+        "description": "En bit brosk hittas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022425904863846,
+          55.59732062843747
+        ]
+      },
+      "properties": {
+        "title": "Sankt Pauli Kyrkogård",
+        "category": "Övrigt",
+        "date": "2022-05-09",
+        "description": "Slantar av grillkorv, misstänker förgiftat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99096939893587,
+          55.5759121306893
+        ]
+      },
+      "properties": {
+        "title": "Konsultgatan 5",
+        "category": "Övrigt",
+        "date": "2022-07-31",
+        "description": "Malet kött med skorpmjöl på marken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020435405289485,
+          55.56321045621816
+        ]
+      },
+      "properties": {
+        "title": "Koralgatan 5, Bakom Lindängsbadet",
+        "category": "Övrigt",
+        "date": "2022-08-03",
+        "description": "Stora köttbitar som är dränkta i något som luktar som glykol/spolarvätska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.986005097445597,
+          55.5998794789509
+        ]
+      },
+      "properties": {
+        "title": "Kung Oscars väg",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-08-26",
+        "description": "Metallbitar på en hundrastplats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012073088239092,
+          55.604032664364595
+        ]
+      },
+      "properties": {
+        "title": "Drottninggatan",
+        "category": "Övrigt",
+        "date": "2022-09-01",
+        "description": "Förgiftade laxbitar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983295092948158,
+          55.59030527633096
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 3",
+        "category": "Kött med vasst föremål",
+        "date": "2022-10-11",
+        "description": "Köttbullar innehållande häftstift och småspik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983394596069909,
+          55.59757552318312
+        ]
+      },
+      "properties": {
+        "title": "Mariedalsvägen ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-10-11",
+        "description": "Köttbullar med häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.942728977232651,
+          55.58652537935135
+        ]
+      },
+      "properties": {
+        "title": "Högerudsgatan ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-10-11",
+        "description": "Brödbullar innehållande glassplitter intill hundlatrin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.983268073829024,
+          55.59031502381242
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 3 ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-10-14",
+        "description": "Köttbullar med häftklamrar/häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.971412492956171,
+          55.59119417635631
+        ]
+      },
+      "properties": {
+        "title": "Bellevuevägen 27 ",
+        "category": "Övrigt",
+        "date": "2022-10-20",
+        "description": "Preparerade kycklingbitar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97794836331162,
+          55.59756266350986
+        ]
+      },
+      "properties": {
+        "title": "Atriumparken ",
+        "category": "Övrigt",
+        "date": "2022-10-22",
+        "description": "Hund blev dålig av att ha ätit köttbulle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.981501477239615,
+          55.59023087937128
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 5d ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-10-31",
+        "description": "Köttbulle med tre häftklamrar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991312993401879,
+          55.6135302920925
+        ]
+      },
+      "properties": {
+        "title": "Isbergs Gata 10 ",
+        "category": "Övrigt",
+        "date": "2022-11-24",
+        "description": "Målsägande upptäckte ca 20 bitar choklad på innergården"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012430057564288,
+          55.59784609986407
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan 12 ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-11-25",
+        "description": "Bullar med metallföremål klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.024371566433516,
+          55.58870837991949
+        ]
+      },
+      "properties": {
+        "title": "Enskifteshagen ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-11-25",
+        "description": "Köttliknande bulle som innehöll ett vasst föremål"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012352007884678,
+          55.597847345244645
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan 12",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-11-25",
+        "description": "Degklumpar med vassa metallplåtar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.988830499964598,
+          55.59277966082986
+        ]
+      },
+      "properties": {
+        "title": "Roskildevägen ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-01",
+        "description": "Vetebullar preparerade med nubb/småspik längs en gata"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.997057729674962,
+          55.5870677834379
+        ]
+      },
+      "properties": {
+        "title": "John Ericssons väg/Pildammsvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-01",
+        "description": "Mindre brödbullar som preparerats med häftstift"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.982088401665306,
+          55.590241819808405
+        ]
+      },
+      "properties": {
+        "title": "Bobergsängen 5 ",
+        "category": "Kött med vasst föremål",
+        "date": "2022-12-05",
+        "description": "Kycklingbit med flera små häftklamrar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.025160965942277,
+          55.57955413766974
+        ]
+      },
+      "properties": {
+        "title": "Norra Grängesbergsgatan 44",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-06",
+        "description": "Flera små brödbullar med metallbitar klippta som kors på hundrastplats"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01364607223831,
+          55.603105970356744
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-18",
+        "description": "Bullar med stålbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.013504860430643,
+          55.60533886694427
+        ]
+      },
+      "properties": {
+        "title": "Södra Promenaden",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-18",
+        "description": "Två bullar med metallbitar klippta som kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00247854237962,
+          55.57240934792016
+        ]
+      },
+      "properties": {
+        "title": "Kulladalsgatan 6",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-21",
+        "description": "Tio bullar med inbakade rakblad klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.001409379904644,
+          55.572061008460985
+        ]
+      },
+      "properties": {
+        "title": "Kulladalsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-21",
+        "description": "Gångbanan längs med gångbanan Kulladlalsgatan 6-10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.013801087542397,
+          55.602390032107365
+        ]
+      },
+      "properties": {
+        "title": "Kungsgatan 30",
+        "category": "Övrigt",
+        "date": "2022-12-24",
+        "description": "6-7 chilifrukter utplacerade med en meters mellanrum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014349517291746,
+          55.59766243888818
+        ]
+      },
+      "properties": {
+        "title": "Kamrergatan 27",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Hund ätit av brödbullar med inbakade metallbitar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.015599416057244,
+          55.59704958386011
+        ]
+      },
+      "properties": {
+        "title": "Bokhållaregatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01168639877368,
+          55.59831076711371
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Brödbullar med glas, \"fint rullade\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01168639877368,
+          55.59831076711371
+        ]
+      },
+      "properties": {
+        "title": "Hantverkaregatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011745007326262,
+          55.59821434707413
+        ]
+      },
+      "properties": {
+        "title": "Henrik Smithsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012939434050654,
+          55.5988004255911
+        ]
+      },
+      "properties": {
+        "title": "Kamrergatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.018418081154332,
+          55.59353899096241
+        ]
+      },
+      "properties": {
+        "title": "Karlskronaplan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Femton brödbitar med små glasbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.014900540455148,
+          55.59648983187285
+        ]
+      },
+      "properties": {
+        "title": "Mäster Danielsgatan 5",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Metallbitar inbakade i sju fint rullade bulllar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016968299966578,
+          55.59500336082298
+        ]
+      },
+      "properties": {
+        "title": "Ronnebygatan/Falsterbog",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-27",
+        "description": "Två bakade brödbullar innehållande metallbitar klippta som ett kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97746531409887,
+          55.59179342418568
+        ]
+      },
+      "properties": {
+        "title": "Pilåkersvägen 7",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2022-12-31",
+        "description": "Bullar med glas i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.995782435425605,
+          55.59310343855044
+        ]
+      },
+      "properties": {
+        "title": "Carl Gustavs väg",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-07",
+        "description": "Degbullar med metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.993826615759536,
+          55.59477979718796
+        ]
+      },
+      "properties": {
+        "title": "Roskildevägen 4",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-07",
+        "description": "Degbullar med metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0213535,
+          55.5934038
+        ]
+      },
+      "properties": {
+        "title": "Bodekullsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-09",
+        "description": "Degbullar med metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.988085960597607,
+          55.59308616409081
+        ]
+      },
+      "properties": {
+        "title": "Själlandstorget",
+        "category": "Övrigt",
+        "date": "2023-01-09",
+        "description": "Korvbit, inga föremål i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0213535,
+          55.5934038
+        ]
+      },
+      "properties": {
+        "title": "Bodekullsgatan ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-10",
+        "description": "Degbullar metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.021091202002694,
+          55.59472893440326
+        ]
+      },
+      "properties": {
+        "title": "Spånehusvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-10",
+        "description": "Degbullar med röda metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.02252860069508,
+          55.592386584137984
+        ]
+      },
+      "properties": {
+        "title": "Torekovsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-10",
+        "description": "Degbullar med metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.026865700643896,
+          55.59281738593011
+        ]
+      },
+      "properties": {
+        "title": "Östra Farmvägen 29",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-10",
+        "description": "Degbullar med metallbitar klippta i kors"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95707827179516,
+          55.59938668409546
+        ]
+      },
+      "properties": {
+        "title": "Ribersborgsstigen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-11",
+        "description": "Mörkt bröd med metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.996006509924916,
+          55.59285293056829
+        ]
+      },
+      "properties": {
+        "title": "Baltiska Vägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Pildamsparken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.988787316060023,
+          55.590089886016216
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken ",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Pildammsparken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.995001820125058,
+          55.58621542914677
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken/Annebergsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Degbullar med glas och metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.995001820125058,
+          55.58621542914677
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken/Annebergsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Degbullar med glas och metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9950455,
+          55.5855636
+        ]
+      },
+      "properties": {
+        "title": "Annebergsgatan 5A",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Degbullar med metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9974775,
+          55.5841446
+        ]
+      },
+      "properties": {
+        "title": "Borgmästaregården",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Hund spottade ut degbulle med metallbitar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.987896405275443,
+          55.588912156521346
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-16",
+        "description": "Hund åt något från marken vid utegymmet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991059557672575,
+          55.59137216044999
+        ]
+      },
+      "properties": {
+        "title": "Margaretavägen",
+        "category": "Övrigt",
+        "date": "2023-01-20",
+        "description": "Sandkorv utan innehåll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9988577,
+          55.6024718
+        ]
+      },
+      "properties": {
+        "title": "Gustav Adolfs Torg 3",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-01-25",
+        "description": "Degbullar med metallbitar i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9301313,
+          55.5603902
+        ]
+      },
+      "properties": {
+        "title": "Skräddarebyn",
+        "category": "Övrigt",
+        "date": "2023-01-27",
+        "description": "Hund fick frätskador i munnen efter att ha rört en petflaska med grumligt innehåll"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016559900636265,
+          55.60232954428213
+        ]
+      },
+      "properties": {
+        "title": "Andrégatan 13",
+        "category": "Övrigt",
+        "date": "2023-02-17",
+        "description": "Brödskivor utanför porten"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.931980098605148,
+          55.556800356670635
+        ]
+      },
+      "properties": {
+        "title": "Vagnmakarebyn 3a",
+        "category": "Övrigt",
+        "date": "2023-02-27",
+        "description": "PET-flaska \"med gift\" hittad i buskage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9895,
+          55.60321
+        ]
+      },
+      "properties": {
+        "title": "Kungsparken",
+        "category": "Övrigt",
+        "date": "2023-03-15",
+        "description": "Tjugotal brödbullar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.024764352944302,
+          55.59556953654274
+        ]
+      },
+      "properties": {
+        "title": "Sorgenfrivägen 27",
+        "category": "Övrigt",
+        "date": "2023-03-21",
+        "description": "Köttbitar / ben"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.050346541334367,
+          55.59720826786454
+        ]
+      },
+      "properties": {
+        "title": "Sallerupsvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-04-10",
+        "description": "Flera brödbullar utslängda på gång/cykelbana invid Sallerupsvägen, en bulle innanför stängslet till kyrkogården "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.021527462892063,
+          55.56464119784732
+        ]
+      },
+      "properties": {
+        "title": "Eriksfältsgatan/Cykelbana",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-04-18",
+        "description": "Nio bullar, minst en med metallstjärna i, slängda på cykelbana i tunnel under Eriksfältsgatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055040716735599,
+          55.57393596913416
+        ]
+      },
+      "properties": {
+        "title": "Ögårdsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2023-12-28",
+        "description": "En kvinna i 75-årsåldern som setts placera ut föremål på marken blir gripen av polis, i en behållare hade hon glasbitar och degklumpar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.99359,
+          55.59311
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-01-19",
+        "description": "Ett trettiotal små brödbullar med ”rakblad” i hittades av kvinna som rastade sin hund"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.026662,
+          55.591839
+        ]
+      },
+      "properties": {
+        "title": "Baskemöllegatan 6A",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-01-28",
+        "description": "Bullarna hittades vid en buske vid åtta-nio-tiden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.024256,
+          55.593852
+        ]
+      },
+      "properties": {
+        "title": "Torekovsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-01-29",
+        "description": "Bullen hittades längs ett staket vid ett grönområde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00568162248118,
+          55.585521832877575
+        ]
+      },
+      "properties": {
+        "title": "Uppsalagatan (båda trottoarerna), trottoarerna längs Upplandsplan, Upplandsgatan, trottoaren på Värmlandsgatan, innergård på Värmlandsgatan, trottoaren Värmlandsplan, parken vid Värmlandsplan, trottoaren Flensburgsgatan.",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-01-29",
+        "description": "Hund skadad på Värmlandsgatan – svalde två stjärnor • Aldrig tidigare har det hittats så många bullar spritt över ett par kvarter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.050665,
+          55.597382
+        ]
+      },
+      "properties": {
+        "title": "Gångtunneln under Sallerupsvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-05",
+        "description": "Tjugotal brödbullar hittade vid gångtunnel under Sallerupsvägen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.020376451617091,
+          55.56405188335233
+        ]
+      },
+      "properties": {
+        "title": "Cykelbron över inre ringvägen vid trafikplats Fosieby",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-09",
+        "description": "Omkring 30 bullar med metall i hittas på Hermodsdal, på bron över Inre Ringvägen mot Lindängen och i gångtunneln mot Gullviksborg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.021534961298347,
+          55.56462281682401
+        ]
+      },
+      "properties": {
+        "title": "Gångtunneln mellan Hermodsdal och Gullviksborg",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-09",
+        "description": "10-tal bullar hittas i gångtunneln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.004844337227626,
+          55.59878646486857
+        ]
+      },
+      "properties": {
+        "title": "Lugna gatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-13",
+        "description": "Fem bullar hittade utanför ett flerfamiljshus på Lugna gatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.006670741016798,
+          55.59813106561184
+        ]
+      },
+      "properties": {
+        "title": "Gångtunneln under Föreningsgatan, August Palms plats",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-13",
+        "description": "Roisin Kenny hittade 26 bullar i och nära gångtunneln vid Stadshuset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.007324635250141,
+          55.60081500119346
+        ]
+      },
+      "properties": {
+        "title": "Gångtunnel Kungsgatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-16",
+        "description": "Ett 20-tal bullar med metallföremål i hittade på Kungsgatan, vid gångtunneln under Amiralsgatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.011234,
+          55.586908
+        ]
+      },
+      "properties": {
+        "title": "Gångtunnel Nobelvägen/Lönngatan",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-20",
+        "description": "Mellan 40 och 50 bullar hittades i gångtunneln Nobelvägen-Lönngatan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.016584,
+          55.576468
+        ]
+      },
+      "properties": {
+        "title": "Gångtunnel Munkhättegatan-Rödkullastigen.",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-02-26",
+        "description": "Fem bullar med metall inuti hittades i gångtunneln Munkhättegatan-Rödkullastigen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.05058,
+          55.597213
+        ]
+      },
+      "properties": {
+        "title": "Gångtunnel Sallerupsvägen",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-03-05",
+        "description": "50-tal bullar med metallföremål hittades i gångtunneln"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.991694,
+          55.587745
+        ]
+      },
+      "properties": {
+        "title": "Pildammsparken",
+        "category": "Bulle/bullar med vasst föremål",
+        "date": "2024-03-13",
+        "description": "Ett 30-tal bullar med metallföremål hittade i Pildammsparken"
+      }
+    }
+  ]
+}
