@@ -1,0 +1,106 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "FeatureCollection",
+  "description": "Schema for a collection of geographic features",
+  "type": "object",
+  "properties": {
+    "type": {
+      "description": "Defines the type of the object, which should be a FeatureCollection",
+      "type": "string",
+      "enum": ["FeatureCollection"]
+    },
+    "features": {
+      "description": "An array of feature objects",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "description": "Defines the type of the feature, which should be Feature",
+            "type": "string",
+            "enum": ["Feature"]
+          },
+          "geometry": {
+            "description": "Geometry of the feature, including its type and coordinates",
+            "type": "object",
+            "properties": {
+              "type": {
+                "description": "Type of geometry, such as Point",
+                "type": "string",
+                "enum": ["Point"]
+              },
+              "coordinates": {
+                "description": "Coordinates of the geometry, expecting longitude and latitude for a Point",
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 2,
+                "maxItems": 2
+              }
+            },
+            "required": ["type", "coordinates"]
+          },
+          "properties": {
+            "description": "Properties of the feature, including identities, location, found information, and findings",
+            "type": "object",
+            "properties": {
+              "identities": {
+                "description": "Identifiers",
+                "type": "object",
+                "properties": {
+                  "uuid": { "description": "Universally unique identifier assigned by Trygghund", "type": "string", "format": "uuid" },
+                  "trygghund": { "description": "Identifier for Trygghund", "type": "integer" },
+                  "polisen.se": { "description": "Police case number (se:Diarienummer), can be null if unknown or not reported", "type": ["string", "null"] }
+                },
+                "required": ["uuid", "trygghund", "polisen.se"]
+              },
+              "location": {
+                "description": "Location details",
+                "type": "object",
+                "properties": {
+                  "description": { "description": "Description of the location", "type": "string" },
+                  "precisionMeters": { "description": "Coordinate precision in meters, can be null if unknown", "type": ["number", "null"] }
+                },
+                "required": ["description", "precisionMeters"]
+              },
+              "found": {
+                "description": "Information on when the feature was found, as a range in case of uncertainty",
+                "type": "object",
+                "properties": {
+                  "after": { "description": "Timestamp after which the item was found", "type": "string", "format": "date-time" },
+                  "before": { "description": "Timestamp before which the item was found", "type": "string", "format": "date-time" }
+                },
+                "required": ["after", "before"]
+              },
+              "findings": {
+                "description": "Array of findings, in case of multiple different kind of findings",
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "category": { "description": "Category of the finding", "type": "string" },
+                    "description": { "description": "Description of the finding", "type": "string" },
+                    "count": {
+                      "description": "Number of items found, as a range if case of uncertainty",
+                      "type": "object",
+                      "properties": {
+                        "from": { "description": "Minimum items found", "type": ["integer", "null"] },
+                        "to": { "description": "Maximum items found", "type": ["integer", "null"] }
+                      },
+                      "required": ["from", "to"]
+                    }
+                  },
+                  "required": ["category", "description", "count"]
+                }
+              }
+            },
+            "required": ["identities", "location", "found", "findings"]
+          }
+        },
+        "required": ["type", "geometry", "properties"]
+      }
+    }
+  },
+  "required": ["type", "features"]
+}

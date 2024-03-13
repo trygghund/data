@@ -11,10 +11,29 @@
         ]
       },
       "properties": {
-        "title": "Stadionparken",
-        "category": "Kött med vasst föremål",
-        "date": "2020-11-17",
-        "description": "Glaskross, korvbitar med häftstift hundrastplats"
+        "identities": {
+          "uuid": "e79219c5-cc26-4f61-b62d-72b9f017a24f",
+          "trygghund": 0,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Stadionparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-11-17T00:00:00",
+          "before": "2020-11-18T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Glaskross, korvbitar med häftstift hundrastplats",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -27,10 +46,29 @@
         ]
       },
       "properties": {
-        "title": "Rönneholmsparken",
-        "category": "Övrigt",
-        "date": "2020-11-23",
-        "description": "Glaskross hundrastplats"
+        "identities": {
+          "uuid": "853118a0-b417-4912-a362-0bdb4a27d47c",
+          "trygghund": 1,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rönneholmsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-11-23T00:00:00",
+          "before": "2020-11-24T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Glaskross hundrastplats",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -43,10 +81,29 @@
         ]
       },
       "properties": {
-        "title": "Exercisgatan",
-        "category": "Kött med vasst föremål",
-        "date": "2020-12-03",
-        "description": "Korv med glas"
+        "identities": {
+          "uuid": "982f3eb7-dcc7-4599-ad4e-294d6acda3e2",
+          "trygghund": 2,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Exercisgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-12-03T00:00:00",
+          "before": "2020-12-04T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korv med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -59,10 +116,29 @@
         ]
       },
       "properties": {
-        "title": "Sperlingsgatan 9",
-        "category": "Kött med vasst föremål",
-        "date": "2020-12-14",
-        "description": "Korv med glas och häftstift"
+        "identities": {
+          "uuid": "1fbf9ac1-83b6-4ecb-abd0-0313368ada8f",
+          "trygghund": 3,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sperlingsgatan 9",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-12-14T00:00:00",
+          "before": "2020-12-15T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korv med glas och häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -75,10 +151,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2020-12-30",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "2dd21284-c77b-4961-b0e5-2cae594a0156",
+          "trygghund": 4,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-12-30T00:00:00",
+          "before": "2020-12-31T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -91,10 +186,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2020-12-30",
-        "description": "Någon har placerat fyra bullar innehållandes glas bitar i en park i syfte att skada hundar"
+        "identities": {
+          "uuid": "954dd24b-6592-4ccf-bd5e-dd548e9fc715",
+          "trygghund": 5,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-12-30T00:00:00",
+          "before": "2020-12-31T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Någon har placerat fyra bullar innehållandes glas bitar i en park i syfte att skada hundar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -107,10 +221,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan 34",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2020-12-30",
-        "description": "Någon har lagt ut en brödbit med glassplitter på marken i syfte att skada djur"
+        "identities": {
+          "uuid": "639fc3da-9bd5-428b-a704-b499fcac1ba5",
+          "trygghund": 6,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan 34",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2020-12-30T00:00:00",
+          "before": "2020-12-31T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Någon har lagt ut en brödbit med glassplitter på marken i syfte att skada djur",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -123,10 +256,29 @@
         ]
       },
       "properties": {
-        "title": "Rönneholmsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-03",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "6b9a0abc-480a-44e6-9b8e-2ae0d08e14cb",
+          "trygghund": 7,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rönneholmsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-03T00:00:00",
+          "before": "2021-01-04T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -139,10 +291,29 @@
         ]
       },
       "properties": {
-        "title": "Mäster Henriksgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-07",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "e5fc79d0-a935-47e4-b2bc-e16d45ae6904",
+          "trygghund": 8,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mäster Henriksgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-07T00:00:00",
+          "before": "2021-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -155,10 +326,29 @@
         ]
       },
       "properties": {
-        "title": "St Knuts Väg",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-07",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "2beb5ea1-04f3-4165-a6f1-20fc33b5b5c0",
+          "trygghund": 9,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "St Knuts Väg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-07T00:00:00",
+          "before": "2021-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -171,10 +361,29 @@
         ]
       },
       "properties": {
-        "title": "Sevedsplan",
-        "category": "Kött med vasst föremål",
-        "date": "2021-01-07",
-        "description": "Kycklingklubbor med spik och glas"
+        "identities": {
+          "uuid": "e68813f8-539f-4e95-874b-883eecde7430",
+          "trygghund": 10,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sevedsplan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-07T00:00:00",
+          "before": "2021-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Kycklingklubbor med spik och glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -187,10 +396,29 @@
         ]
       },
       "properties": {
-        "title": "Sevedsplan",
-        "category": "Kött med vasst föremål",
-        "date": "2021-01-07",
-        "description": "Kycklingklubbor med spik"
+        "identities": {
+          "uuid": "6282d3c0-0e5d-4a56-91e2-ec7245596b79",
+          "trygghund": 11,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sevedsplan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-07T00:00:00",
+          "before": "2021-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Kycklingklubbor med spik",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -203,10 +431,29 @@
         ]
       },
       "properties": {
-        "title": "Mäster Henriksgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-08",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "882fef88-9989-40f3-a467-e478262c288d",
+          "trygghund": 12,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mäster Henriksgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-08T00:00:00",
+          "before": "2021-01-09T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -219,10 +466,29 @@
         ]
       },
       "properties": {
-        "title": "Mäster Henriksgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-08",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "e9b43190-48bf-47f1-bf25-e8cd740753d5",
+          "trygghund": 13,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mäster Henriksgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-08T00:00:00",
+          "before": "2021-01-09T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -235,10 +501,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan 6",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-08",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "0bf8be13-54c7-4788-a80e-239ad7d39f4a",
+          "trygghund": 14,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan 6",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-08T00:00:00",
+          "before": "2021-01-09T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -251,10 +536,29 @@
         ]
       },
       "properties": {
-        "title": "Sperlingsgatan 9",
-        "category": "Kött med vasst föremål",
-        "date": "2021-01-19",
-        "description": "Bollar av falukorv med glas samt bollar med kyckling med spik"
+        "identities": {
+          "uuid": "a4cee834-b3ad-4692-bf3d-2cee28d91057",
+          "trygghund": 15,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sperlingsgatan 9",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-19T00:00:00",
+          "before": "2021-01-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Bollar av falukorv med glas samt bollar med kyckling med spik",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -267,10 +571,29 @@
         ]
       },
       "properties": {
-        "title": "Spånehusvägen 63",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-19",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "9fdf4f21-7710-4b3d-9180-9d50bb3ddf4d",
+          "trygghund": 16,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Spånehusvägen 63",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-19T00:00:00",
+          "before": "2021-01-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -283,10 +606,29 @@
         ]
       },
       "properties": {
-        "title": "Kamrergatan 29",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-19",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "a4ddf6ed-fe3f-4f40-ab97-8f76f6886afb",
+          "trygghund": 17,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kamrergatan 29",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-19T00:00:00",
+          "before": "2021-01-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -299,10 +641,29 @@
         ]
       },
       "properties": {
-        "title": "Torekovsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-01-19",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "96bd2ddb-3322-43ef-bc2e-474e2ca2fc5c",
+          "trygghund": 18,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torekovsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-01-19T00:00:00",
+          "before": "2021-01-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -315,10 +676,29 @@
         ]
       },
       "properties": {
-        "title": "Torekovsgatan 18",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-01",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "9db77c08-302a-4e82-9e6d-172fa10ad75f",
+          "trygghund": 19,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torekovsgatan 18",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-01T00:00:00",
+          "before": "2021-02-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -331,10 +711,29 @@
         ]
       },
       "properties": {
-        "title": "Uddeholmsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-03",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "4eda70d4-5234-47e3-899c-967718917865",
+          "trygghund": 20,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Uddeholmsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-03T00:00:00",
+          "before": "2021-02-04T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -347,10 +746,29 @@
         ]
       },
       "properties": {
-        "title": "Bodekullsgatan 23",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-04",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "49bc7801-2e32-485d-9077-9844a0572e7f",
+          "trygghund": 21,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bodekullsgatan 23",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-04T00:00:00",
+          "before": "2021-02-05T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -363,10 +781,29 @@
         ]
       },
       "properties": {
-        "title": "Augustenborgsgatan 3",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-07",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "6db8ad2e-aae8-4448-adfb-ea71c48b297d",
+          "trygghund": 22,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Augustenborgsgatan 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-07T00:00:00",
+          "before": "2021-02-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -379,10 +816,29 @@
         ]
       },
       "properties": {
-        "title": "Särlagatan 13",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-12",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "d7e883ce-cd25-4c99-81ca-514630d16e86",
+          "trygghund": 23,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Särlagatan 13",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-12T00:00:00",
+          "before": "2021-02-13T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -395,10 +851,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen",
-        "category": "Kött med vasst föremål",
-        "date": "2021-02-16",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "2fbfa327-0ece-4e42-976b-9b10b7a6322e",
+          "trygghund": 24,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-16T00:00:00",
+          "before": "2021-02-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -411,10 +886,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 2",
-        "category": "Kött med vasst föremål",
-        "date": "2021-02-18",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "69c6be3e-30b4-4f1f-b790-3c0343f72bf4",
+          "trygghund": 25,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 2",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-18T00:00:00",
+          "before": "2021-02-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -427,10 +921,29 @@
         ]
       },
       "properties": {
-        "title": "Särlagatan 13",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-02-22",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "827ea449-15c5-408c-b15c-cfa8515d5408",
+          "trygghund": 26,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Särlagatan 13",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-02-22T00:00:00",
+          "before": "2021-02-23T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -443,10 +956,29 @@
         ]
       },
       "properties": {
-        "title": "Lönngatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-16",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "83b37a4b-59c0-4c4b-9333-4fbd917a1e13",
+          "trygghund": 27,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lönngatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-16T00:00:00",
+          "before": "2021-03-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -459,10 +991,29 @@
         ]
       },
       "properties": {
-        "title": "Thottsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-16",
-        "description": "Bullar med metallföremål och glas"
+        "identities": {
+          "uuid": "94caaab7-1b3d-4619-9c16-92eaa517d412",
+          "trygghund": 28,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Thottsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-16T00:00:00",
+          "before": "2021-03-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål och glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -475,10 +1026,29 @@
         ]
       },
       "properties": {
-        "title": "Lönngatan 4",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-16",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "f8bf047f-6a93-49da-b96f-09f4a4ee3a8d",
+          "trygghund": 29,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lönngatan 4",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-16T00:00:00",
+          "before": "2021-03-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -491,10 +1061,29 @@
         ]
       },
       "properties": {
-        "title": "Nobelvägen/Spårvägsgata",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-24",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "90a10fa6-a930-4486-912b-fc38c260d0e7",
+          "trygghund": 30,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Nobelvägen/Spårvägsgata",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-24T00:00:00",
+          "before": "2021-03-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -507,10 +1096,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan 14",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-25",
-        "description": "Bullar med rakblad"
+        "identities": {
+          "uuid": "75f6b759-4fab-4dd0-93a9-fd3567d3f8f4",
+          "trygghund": 31,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan 14",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-25T00:00:00",
+          "before": "2021-03-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med rakblad",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -523,10 +1131,29 @@
         ]
       },
       "properties": {
-        "title": "August Palms Plats 1",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-25",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "e1b54519-b2fe-4059-b3ab-5120322d4302",
+          "trygghund": 32,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "August Palms Plats 1",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-25T00:00:00",
+          "before": "2021-03-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -539,10 +1166,29 @@
         ]
       },
       "properties": {
-        "title": "August Palms Plats",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-25",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "25d001f8-033c-4268-afc6-d0837851e941",
+          "trygghund": 33,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "August Palms Plats",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-25T00:00:00",
+          "before": "2021-03-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -555,10 +1201,29 @@
         ]
       },
       "properties": {
-        "title": "Henrik Smithsgatan 9",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-25",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "a456211e-8fc8-4df9-baaa-9a191a6efa30",
+          "trygghund": 34,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Henrik Smithsgatan 9",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-25T00:00:00",
+          "before": "2021-03-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -571,10 +1236,29 @@
         ]
       },
       "properties": {
-        "title": "Kamrergatan 29",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-03-25",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "531c539b-2714-43d7-8da0-c24f13688741",
+          "trygghund": 35,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kamrergatan 29",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-03-25T00:00:00",
+          "before": "2021-03-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -587,10 +1271,29 @@
         ]
       },
       "properties": {
-        "title": "Torpgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-04-01",
-        "description": "Bullar med rakblad"
+        "identities": {
+          "uuid": "bbe654a3-07ba-4770-a7dc-ec19040bd9a5",
+          "trygghund": 36,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torpgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-04-01T00:00:00",
+          "before": "2021-04-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med rakblad",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -603,10 +1306,29 @@
         ]
       },
       "properties": {
-        "title": "Thottsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-04-01",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "3520c157-76cb-4456-8958-9b5c96b49632",
+          "trygghund": 37,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Thottsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-04-01T00:00:00",
+          "before": "2021-04-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -619,10 +1341,29 @@
         ]
       },
       "properties": {
-        "title": "Olofsborgsgatan 3",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-04-01",
-        "description": "Bullar med glas"
+        "identities": {
+          "uuid": "035563d9-686f-4a6f-8db1-effd140fafca",
+          "trygghund": 38,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Olofsborgsgatan 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-04-01T00:00:00",
+          "before": "2021-04-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -635,10 +1376,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-04-01",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "b4482590-b5ae-4029-8aea-490588578806",
+          "trygghund": 39,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-04-01T00:00:00",
+          "before": "2021-04-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -651,10 +1411,29 @@
         ]
       },
       "properties": {
-        "title": "Thottsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-04-22",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "0140f145-9f46-4a75-92fe-fe23d45e33ec",
+          "trygghund": 40,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Thottsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-04-22T00:00:00",
+          "before": "2021-04-23T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -667,10 +1446,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen/John Ericssons väg",
-        "category": "Kött med vasst föremål",
-        "date": "2021-05-17",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "e1202475-bd4e-4ff9-80cd-5f8da1b12165",
+          "trygghund": 41,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen/John Ericssons väg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-05-17T00:00:00",
+          "before": "2021-05-18T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -683,10 +1481,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2021-05-21",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "cc704825-fd6a-4d9c-9a2f-10503658ab78",
+          "trygghund": 42,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-05-21T00:00:00",
+          "before": "2021-05-22T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -699,10 +1516,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen/Randersv",
-        "category": "Kött med vasst föremål",
-        "date": "2021-05-25",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "c32705e9-994d-43d9-b5f2-56e2588391f9",
+          "trygghund": 43,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen/Randersv",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-05-25T00:00:00",
+          "before": "2021-05-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -715,10 +1551,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 3",
-        "category": "Kött med vasst föremål",
-        "date": "2021-05-26",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "0d2dbc59-5e86-4cd5-b4c4-7dffb4d8bf36",
+          "trygghund": 44,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-05-26T00:00:00",
+          "before": "2021-05-27T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -731,10 +1586,29 @@
         ]
       },
       "properties": {
-        "title": "Amiralsgatan 88",
-        "category": "Kött med vasst föremål",
-        "date": "2021-05-26",
-        "description": "Kycklingbit med glas"
+        "identities": {
+          "uuid": "0dfa156a-74be-4a00-86d7-c8b677147204",
+          "trygghund": 45,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Amiralsgatan 88",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-05-26T00:00:00",
+          "before": "2021-05-27T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Kycklingbit med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -747,10 +1621,29 @@
         ]
       },
       "properties": {
-        "title": "Mäster Danielsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-07",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "bcbccc6b-ba3b-423b-9725-f5f8bac556f1",
+          "trygghund": 46,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mäster Danielsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-07T00:00:00",
+          "before": "2021-08-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -763,10 +1656,29 @@
         ]
       },
       "properties": {
-        "title": "Kiviksgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-11",
-        "description": "Bullar med vasst föremål"
+        "identities": {
+          "uuid": "eaf52007-2f34-420f-9627-5ba55b286784",
+          "trygghund": 47,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kiviksgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-11T00:00:00",
+          "before": "2021-08-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med vasst föremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -779,10 +1691,29 @@
         ]
       },
       "properties": {
-        "title": "Bodekullsgatan 29",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-13",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "2405732c-b569-4ed0-a82c-9a7871f2c48b",
+          "trygghund": 48,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bodekullsgatan 29",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-13T00:00:00",
+          "before": "2021-08-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -795,10 +1726,29 @@
         ]
       },
       "properties": {
-        "title": "Agnesfridsvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-16",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "564b0114-0785-42dd-9dd0-4869ef1e460e",
+          "trygghund": 49,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Agnesfridsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-16T00:00:00",
+          "before": "2021-08-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -811,10 +1761,29 @@
         ]
       },
       "properties": {
-        "title": "Karlskronaplan 8",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-19",
-        "description": "Bulle med glas"
+        "identities": {
+          "uuid": "18cd4a66-0cd9-425c-87d7-3aac3b7b9d5c",
+          "trygghund": 50,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Karlskronaplan 8",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-19T00:00:00",
+          "before": "2021-08-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bulle med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -827,10 +1796,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan 34",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-29",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "25c82c67-6efa-4c56-a70b-7f44a82f3e96",
+          "trygghund": 51,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan 34",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-29T00:00:00",
+          "before": "2021-08-30T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -843,10 +1831,29 @@
         ]
       },
       "properties": {
-        "title": "Nydalavägen 7",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-31",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "76ea8369-664d-41bb-8d8a-b0ce8452f8c9",
+          "trygghund": 52,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Nydalavägen 7",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-31T00:00:00",
+          "before": "2021-09-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -859,10 +1866,29 @@
         ]
       },
       "properties": {
-        "title": "Spångatan 40",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-31",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "c61473f8-5c08-4b5f-991f-d83c33a87f28",
+          "trygghund": 53,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Spångatan 40",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-31T00:00:00",
+          "before": "2021-09-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -875,10 +1901,29 @@
         ]
       },
       "properties": {
-        "title": "Lugna Gatan 60",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-31",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "518098b6-dbce-4fa1-ad72-bbc5da0cabc2",
+          "trygghund": 54,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lugna Gatan 60",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-31T00:00:00",
+          "before": "2021-09-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -891,10 +1936,29 @@
         ]
       },
       "properties": {
-        "title": "Karlskronaplan 9",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-08-31",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "879b8f1f-10c8-4999-8d17-34ac31ee7480",
+          "trygghund": 55,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Karlskronaplan 9",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-08-31T00:00:00",
+          "before": "2021-09-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -907,10 +1971,29 @@
         ]
       },
       "properties": {
-        "title": "Östra Farmvägen",
-        "category": "Kött med vasst föremål",
-        "date": "2021-09-01",
-        "description": "Köttbulle med glas"
+        "identities": {
+          "uuid": "f2ddf2c8-5d4b-4099-8bc2-0c4aed99623b",
+          "trygghund": 56,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Östra Farmvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-01T00:00:00",
+          "before": "2021-09-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbulle med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -923,10 +2006,29 @@
         ]
       },
       "properties": {
-        "title": "Lugna Gatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-01",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "f6baac26-6192-4e23-b654-4c1631001fc1",
+          "trygghund": 57,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lugna Gatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-01T00:00:00",
+          "before": "2021-09-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -939,10 +2041,29 @@
         ]
       },
       "properties": {
-        "title": "Regementsgatan 20",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-11",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "79931587-a3e8-49ca-b615-f74245c56d33",
+          "trygghund": 58,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Regementsgatan 20",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-11T00:00:00",
+          "before": "2021-09-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -955,10 +2076,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan 10",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-12",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "8915f135-6dd4-4b97-a787-306b5279ad03",
+          "trygghund": 59,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan 10",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-12T00:00:00",
+          "before": "2021-09-13T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -971,10 +2111,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan 3",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-12",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "59ea6e18-23c4-4d23-bdbd-2e5bebde4374",
+          "trygghund": 60,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-12T00:00:00",
+          "before": "2021-09-13T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -987,10 +2146,29 @@
         ]
       },
       "properties": {
-        "title": "Rönneholmsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-13",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "2b4ad71d-e659-4c0d-aa22-414cdeb46a6d",
+          "trygghund": 61,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rönneholmsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-13T00:00:00",
+          "before": "2021-09-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1003,10 +2181,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-18",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "1068ca82-b8bb-4a58-8fd0-667178e50603",
+          "trygghund": 62,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-18T00:00:00",
+          "before": "2021-09-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1019,10 +2216,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-18",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "f732b870-66ea-4605-84c7-19411190ed34",
+          "trygghund": 63,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-18T00:00:00",
+          "before": "2021-09-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1035,10 +2251,29 @@
         ]
       },
       "properties": {
-        "title": "Malmöhusvägen 1",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-19",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "131ef635-7bbf-4692-bd66-19d3995cf243",
+          "trygghund": 64,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Malmöhusvägen 1",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-19T00:00:00",
+          "before": "2021-09-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1051,10 +2286,29 @@
         ]
       },
       "properties": {
-        "title": "Rödkullastigen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-20",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "768c7092-de57-4cbf-b86e-f9d1e9f0b9f3",
+          "trygghund": 65,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rödkullastigen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-20T00:00:00",
+          "before": "2021-09-21T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1067,10 +2321,29 @@
         ]
       },
       "properties": {
-        "title": "Östra Rönneholmsvägen 2",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-23",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "bfd688c0-d575-418b-867b-2e342b9fe202",
+          "trygghund": 66,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Östra Rönneholmsvägen 2",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-23T00:00:00",
+          "before": "2021-09-24T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1083,10 +2356,29 @@
         ]
       },
       "properties": {
-        "title": "Teaterparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-24",
-        "description": "Bullar med rakblad"
+        "identities": {
+          "uuid": "01c0a76f-87e3-444e-9e82-4e366b09adb7",
+          "trygghund": 67,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Teaterparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-24T00:00:00",
+          "before": "2021-09-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med rakblad",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1099,10 +2391,29 @@
         ]
       },
       "properties": {
-        "title": "Slottsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-24",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "983d5984-35d8-488c-a06b-20d07a2f9b96",
+          "trygghund": 68,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Slottsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-24T00:00:00",
+          "before": "2021-09-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1115,10 +2426,29 @@
         ]
       },
       "properties": {
-        "title": "Bunkeflovägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-09-25",
-        "description": "Bullar med spik"
+        "identities": {
+          "uuid": "b4edb1fe-abb2-478b-b59d-75623e87caaa",
+          "trygghund": 69,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bunkeflovägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-09-25T00:00:00",
+          "before": "2021-09-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med spik",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1131,10 +2461,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-10-02",
-        "description": "Bullar med metallföremål och korv"
+        "identities": {
+          "uuid": "589534d6-7d4b-4ebb-96a3-8ee1e4af63cf",
+          "trygghund": 70,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-10-02T00:00:00",
+          "before": "2021-10-03T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål och korv",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1147,10 +2496,29 @@
         ]
       },
       "properties": {
-        "title": "Stadionparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-10-09",
-        "description": "Bullar med metallföremål"
+        "identities": {
+          "uuid": "05f9f6d8-e30a-4a97-b3d0-cbf524ffc69e",
+          "trygghund": 71,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Stadionparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-10-09T00:00:00",
+          "before": "2021-10-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1163,10 +2531,29 @@
         ]
       },
       "properties": {
-        "title": "Rödkullastigen 1A",
-        "category": "Övrigt",
-        "date": "2021-11-08",
-        "description": "Spik i marken runt träd"
+        "identities": {
+          "uuid": "789c6228-9706-4f3c-b6fc-6ebda338f9a1",
+          "trygghund": 72,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rödkullastigen 1A",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-08T00:00:00",
+          "before": "2021-11-09T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Spik i marken runt träd",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1179,10 +2566,29 @@
         ]
       },
       "properties": {
-        "title": "Bulltofta motionsområde",
-        "category": "Övrigt",
-        "date": "2021-11-11",
-        "description": "Brödsmulor med glas"
+        "identities": {
+          "uuid": "52551cf9-c8a1-4ff2-ba50-ede47ebef083",
+          "trygghund": 73,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bulltofta motionsområde",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-11T00:00:00",
+          "before": "2021-11-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Brödsmulor med glas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1195,10 +2601,29 @@
         ]
       },
       "properties": {
-        "title": "Kamrergatan ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-11-24",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "d6173ada-aef5-4654-8f62-e086c7cac0b6",
+          "trygghund": 74,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kamrergatan ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-24T00:00:00",
+          "before": "2021-11-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1211,10 +2636,29 @@
         ]
       },
       "properties": {
-        "title": "Vitemöllegatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-11-24",
-        "description": "Bullar med rakblad"
+        "identities": {
+          "uuid": "6f810e6f-2318-4cb2-9e26-9a7d455dce63",
+          "trygghund": 75,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Vitemöllegatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-24T00:00:00",
+          "before": "2021-11-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med rakblad",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1227,10 +2671,29 @@
         ]
       },
       "properties": {
-        "title": "Abbekåsgatan 13",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-11-24",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "57c7c71f-96ad-402c-8800-9220e5fdaa42",
+          "trygghund": 76,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Abbekåsgatan 13",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-24T00:00:00",
+          "before": "2021-11-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1243,10 +2706,29 @@
         ]
       },
       "properties": {
-        "title": "Torekovsplan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2021-11-24",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "90cce9c2-c394-4ca2-abec-81634f4d8fda",
+          "trygghund": 77,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torekovsplan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-11-24T00:00:00",
+          "before": "2021-11-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1259,10 +2741,29 @@
         ]
       },
       "properties": {
-        "title": "Rosenlundsgatan",
-        "category": "Kött med vasst föremål",
-        "date": "2021-12-22",
-        "description": "Korv med häftstift"
+        "identities": {
+          "uuid": "69e98ad6-934c-4257-8c1a-a66fa763ff62",
+          "trygghund": 78,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Rosenlundsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2021-12-22T00:00:00",
+          "before": "2021-12-23T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korv med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1275,10 +2776,29 @@
         ]
       },
       "properties": {
-        "title": "Kulladalsstigen",
-        "category": "Övrigt",
-        "date": "2022-01-05",
-        "description": "Någon har lagt ut misstänkt preparerade köttbullar vid Kulladalsstigen"
+        "identities": {
+          "uuid": "cc30ebd9-8973-4687-84ac-db918f21dc3b",
+          "trygghund": 79,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kulladalsstigen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-01-05T00:00:00",
+          "before": "2022-01-06T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Någon har lagt ut misstänkt preparerade köttbullar vid Kulladalsstigen",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1291,10 +2811,29 @@
         ]
       },
       "properties": {
-        "title": "Mölledalsgatan",
-        "category": "Kött med vasst föremål",
-        "date": "2022-01-24",
-        "description": "Korv med skruv och tabletter"
+        "identities": {
+          "uuid": "41f06020-0405-4257-be28-6a06a1e6c74e",
+          "trygghund": 80,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mölledalsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-01-24T00:00:00",
+          "before": "2022-01-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korv med skruv och tabletter",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1307,10 +2846,29 @@
         ]
       },
       "properties": {
-        "title": "Sturegatan",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-07",
-        "description": "Köttbulle med spik"
+        "identities": {
+          "uuid": "97372214-0527-4230-9d03-86428e32cbcc",
+          "trygghund": 81,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sturegatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-07T00:00:00",
+          "before": "2022-02-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbulle med spik",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1323,10 +2881,29 @@
         ]
       },
       "properties": {
-        "title": "Roskildevägen/Karl Gustavs väg",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-02-07",
-        "description": "Tavelspikar i en bulle"
+        "identities": {
+          "uuid": "34180090-6652-4068-b124-122c8bd4aa0c",
+          "trygghund": 82,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Roskildevägen/Karl Gustavs väg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-07T00:00:00",
+          "before": "2022-02-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Tavelspikar i en bulle",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1339,10 +2916,29 @@
         ]
       },
       "properties": {
-        "title": "Södra Promenaden",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-02-13",
-        "description": "Bullar med metallföremål, rakblad"
+        "identities": {
+          "uuid": "0d159e9b-8140-4ebb-9457-51c9492f6367",
+          "trygghund": 83,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Södra Promenaden",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-13T00:00:00",
+          "before": "2022-02-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, rakblad",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1355,10 +2951,29 @@
         ]
       },
       "properties": {
-        "title": "Hallingsgatan 5",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-02-14",
-        "description": "Bullar med metallföremål, klippta i kors"
+        "identities": {
+          "uuid": "a2b73d94-38b1-4d2a-b1e3-7a12dc2bd50d",
+          "trygghund": 84,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hallingsgatan 5",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-14T00:00:00",
+          "before": "2022-02-15T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål, klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1371,10 +2986,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-14",
-        "description": "Ben med metallbitar i"
+        "identities": {
+          "uuid": "2bf5b83e-f18e-4bae-a848-39ca74ea19da",
+          "trygghund": 85,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-14T00:00:00",
+          "before": "2022-02-15T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Ben med metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1387,10 +3021,29 @@
         ]
       },
       "properties": {
-        "title": "John Ericssons väg/Mariedalsvägen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-16",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "743a8e5f-acfc-439b-bc94-e932aecf0868",
+          "trygghund": 86,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "John Ericssons väg/Mariedalsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-16T00:00:00",
+          "before": "2022-02-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1403,10 +3056,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen 50",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-16",
-        "description": "Köttbullar med häftstift"
+        "identities": {
+          "uuid": "0aaa3607-9c9a-4273-9133-272e4d7bdf0e",
+          "trygghund": 87,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen 50",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-16T00:00:00",
+          "before": "2022-02-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1419,10 +3091,29 @@
         ]
       },
       "properties": {
-        "title": "John Ericssons väg 57",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-17",
-        "description": "Köttbullar med stift från häftpistol"
+        "identities": {
+          "uuid": "8878e315-c2ce-402d-9243-d3c01e10448e",
+          "trygghund": 88,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "John Ericssons väg 57",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-17T00:00:00",
+          "before": "2022-02-18T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med stift från häftpistol",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1435,10 +3126,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen 68",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-17",
-        "description": "Köttbullar med häftstift"
+        "identities": {
+          "uuid": "c9036328-6f43-48ea-b87f-9e2456273d40",
+          "trygghund": 89,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen 68",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-17T00:00:00",
+          "before": "2022-02-18T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1451,10 +3161,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-18",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "ef3ccb88-e5d3-4f69-935e-616a40be0b03",
+          "trygghund": 90,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-18T00:00:00",
+          "before": "2022-02-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1467,10 +3196,29 @@
         ]
       },
       "properties": {
-        "title": "Högatorpsvägen 35",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-02-18",
-        "description": "Bullar med metallföremål i"
+        "identities": {
+          "uuid": "f54add92-dbe1-4fb0-ad7f-d7b223661c6d",
+          "trygghund": 91,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Högatorpsvägen 35",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-18T00:00:00",
+          "before": "2022-02-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1483,10 +3231,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen 4A",
-        "category": "Kött med vasst föremål",
-        "date": "2022-02-18",
-        "description": "Köttbullar med häftklammer"
+        "identities": {
+          "uuid": "3b40e398-18fd-4e52-8c2b-f305d95cbd67",
+          "trygghund": 92,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen 4A",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-02-18T00:00:00",
+          "before": "2022-02-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklammer",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1499,10 +3266,29 @@
         ]
       },
       "properties": {
-        "title": "Lorensborgsgatan 11A",
-        "category": "Övrigt",
-        "date": "2022-03-12",
-        "description": "Preparerad brödbit"
+        "identities": {
+          "uuid": "d265d588-b863-4ba1-bc41-33466be4a813",
+          "trygghund": 93,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lorensborgsgatan 11A",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-03-12T00:00:00",
+          "before": "2022-03-13T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Preparerad brödbit",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1515,10 +3301,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-03-15",
-        "description": "Ben preparerat med metallbitar som liknar häftklammer"
+        "identities": {
+          "uuid": "fb127ca7-907d-4768-a665-fab17815a3d3",
+          "trygghund": 94,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-03-15T00:00:00",
+          "before": "2022-03-16T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Ben preparerat med metallbitar som liknar häftklammer",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1531,10 +3336,29 @@
         ]
       },
       "properties": {
-        "title": "August Palms Plats",
-        "category": "Övrigt",
-        "date": "2022-04-05",
-        "description": "Okänt, preparerat med amfetamin"
+        "identities": {
+          "uuid": "2739cc5e-7c11-476d-b499-7316ceebd64d",
+          "trygghund": 95,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "August Palms Plats",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-05T00:00:00",
+          "before": "2022-04-06T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Okänt, preparerat med amfetamin",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1547,10 +3371,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-07",
-        "description": "Åtta köttbullar med häftklammer i"
+        "identities": {
+          "uuid": "76c1367c-d7b7-4679-ad43-3bcc0e1c2c26",
+          "trygghund": 96,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-07T00:00:00",
+          "before": "2022-04-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Åtta köttbullar med häftklammer i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1563,10 +3406,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 3b",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-10",
-        "description": "Köttbullar med nitar och spikar"
+        "identities": {
+          "uuid": "cb6f245f-c382-4d6f-8ce6-3ec8dc9c3145",
+          "trygghund": 97,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 3b",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-10T00:00:00",
+          "before": "2022-04-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med nitar och spikar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1579,10 +3441,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-18",
-        "description": "Sju bitar korv med häftstift"
+        "identities": {
+          "uuid": "71ad2647-f86f-412d-9705-67ad9ee6a76d",
+          "trygghund": 98,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-18T00:00:00",
+          "before": "2022-04-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Sju bitar korv med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1595,10 +3476,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-18",
-        "description": "Ölkorv med med häftstiftsklamrar och andra vassa föremål"
+        "identities": {
+          "uuid": "1add5f46-20ac-4867-9ac8-031590515604",
+          "trygghund": 99,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-18T00:00:00",
+          "before": "2022-04-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Ölkorv med med häftstiftsklamrar och andra vassa föremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1611,10 +3511,29 @@
         ]
       },
       "properties": {
-        "title": "Övägen ",
-        "category": "Övrigt",
-        "date": "2022-04-18",
-        "description": "Bulle av risgrynsgröt innehållande hund- eller kattgodis"
+        "identities": {
+          "uuid": "28c23b82-ef25-4176-b6f0-108a7d6638e1",
+          "trygghund": 100,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Övägen ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-18T00:00:00",
+          "before": "2022-04-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Bulle av risgrynsgröt innehållande hund- eller kattgodis",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1627,10 +3546,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-19",
-        "description": "Korvar med häftstift"
+        "identities": {
+          "uuid": "bcceca4b-0966-4eff-9bfd-57e138ff5757",
+          "trygghund": 101,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-19T00:00:00",
+          "before": "2022-04-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korvar med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1643,10 +3581,29 @@
         ]
       },
       "properties": {
-        "title": "John Ericssons Väg 77 ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-19",
-        "description": "Korvbitar med häftklamrar i"
+        "identities": {
+          "uuid": "6c641554-307c-4c3c-8c71-b925673c2820",
+          "trygghund": 102,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "John Ericssons Väg 77 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-19T00:00:00",
+          "before": "2022-04-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korvbitar med häftklamrar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1659,10 +3616,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen längs mariedalsvägen",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-20",
-        "description": "Korvbitar med häftklammer"
+        "identities": {
+          "uuid": "5e5fc2d1-27c2-4146-8c48-79074f772439",
+          "trygghund": 103,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen längs mariedalsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-20T00:00:00",
+          "before": "2022-04-21T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Korvbitar med häftklammer",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1675,10 +3651,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-04-23",
-        "description": "Köttbulle med småspikar"
+        "identities": {
+          "uuid": "7aca7e1b-be0c-4174-b938-a1d62f70c48c",
+          "trygghund": 104,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-04-23T00:00:00",
+          "before": "2022-04-24T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbulle med småspikar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1691,10 +3686,29 @@
         ]
       },
       "properties": {
-        "title": "Stenkällevägen/Sergeantgatan",
-        "category": "Övrigt",
-        "date": "2022-05-08",
-        "description": "En bit brosk hittas"
+        "identities": {
+          "uuid": "e4e44c22-5ccd-404c-bd87-6e661e1a35c8",
+          "trygghund": 105,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Stenkällevägen/Sergeantgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-05-08T00:00:00",
+          "before": "2022-05-09T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "En bit brosk hittas",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1707,10 +3721,29 @@
         ]
       },
       "properties": {
-        "title": "Sankt Pauli Kyrkogård",
-        "category": "Övrigt",
-        "date": "2022-05-09",
-        "description": "Slantar av grillkorv, misstänker förgiftat"
+        "identities": {
+          "uuid": "ecf50f71-93c0-4d98-8e70-3d68d86cad55",
+          "trygghund": 106,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sankt Pauli Kyrkogård",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-05-09T00:00:00",
+          "before": "2022-05-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Slantar av grillkorv, misstänker förgiftat",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1723,10 +3756,29 @@
         ]
       },
       "properties": {
-        "title": "Konsultgatan 5",
-        "category": "Övrigt",
-        "date": "2022-07-31",
-        "description": "Malet kött med skorpmjöl på marken"
+        "identities": {
+          "uuid": "717b817a-4b3b-49c7-b4e6-fb3c1338fad2",
+          "trygghund": 107,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Konsultgatan 5",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-07-31T00:00:00",
+          "before": "2022-08-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Malet kött med skorpmjöl på marken",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1739,10 +3791,29 @@
         ]
       },
       "properties": {
-        "title": "Koralgatan 5, Bakom Lindängsbadet",
-        "category": "Övrigt",
-        "date": "2022-08-03",
-        "description": "Stora köttbitar som är dränkta i något som luktar som glykol/spolarvätska"
+        "identities": {
+          "uuid": "23bded81-be90-4ec3-8dcb-e7cb8c3a22e1",
+          "trygghund": 108,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Koralgatan 5, Bakom Lindängsbadet",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-08-03T00:00:00",
+          "before": "2022-08-04T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Stora köttbitar som är dränkta i något som luktar som glykol/spolarvätska",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1755,10 +3826,29 @@
         ]
       },
       "properties": {
-        "title": "Kung Oscars väg",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-08-26",
-        "description": "Metallbitar på en hundrastplats"
+        "identities": {
+          "uuid": "55425e22-2023-47ea-8d42-5ed05cadcde4",
+          "trygghund": 109,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kung Oscars väg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-08-26T00:00:00",
+          "before": "2022-08-27T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Metallbitar på en hundrastplats",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1771,10 +3861,29 @@
         ]
       },
       "properties": {
-        "title": "Drottninggatan",
-        "category": "Övrigt",
-        "date": "2022-09-01",
-        "description": "Förgiftade laxbitar"
+        "identities": {
+          "uuid": "6627235f-6e77-4fea-8b35-20bdd2578326",
+          "trygghund": 110,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Drottninggatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-09-01T00:00:00",
+          "before": "2022-09-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Förgiftade laxbitar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1787,10 +3896,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 3",
-        "category": "Kött med vasst föremål",
-        "date": "2022-10-11",
-        "description": "Köttbullar innehållande häftstift och småspik"
+        "identities": {
+          "uuid": "a497d0ae-869b-4bbd-b529-9724caefce76",
+          "trygghund": 111,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-11T00:00:00",
+          "before": "2022-10-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar innehållande häftstift och småspik",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1803,10 +3931,29 @@
         ]
       },
       "properties": {
-        "title": "Mariedalsvägen ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-10-11",
-        "description": "Köttbullar med häftklamrar"
+        "identities": {
+          "uuid": "1bdb11f9-e388-4775-b094-4af80d5be3e3",
+          "trygghund": 112,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mariedalsvägen ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-11T00:00:00",
+          "before": "2022-10-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1819,10 +3966,29 @@
         ]
       },
       "properties": {
-        "title": "Högerudsgatan ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-10-11",
-        "description": "Brödbullar innehållande glassplitter intill hundlatrin"
+        "identities": {
+          "uuid": "1903c916-75b8-4057-8864-d712d1f6f6b0",
+          "trygghund": 113,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Högerudsgatan ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-11T00:00:00",
+          "before": "2022-10-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Brödbullar innehållande glassplitter intill hundlatrin",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1835,10 +4001,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 3 ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-10-14",
-        "description": "Köttbullar med häftklamrar/häftstift"
+        "identities": {
+          "uuid": "9753848e-63dc-49b2-ada5-ee0be5f4dbf0",
+          "trygghund": 114,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 3 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-14T00:00:00",
+          "before": "2022-10-15T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbullar med häftklamrar/häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1851,10 +4036,29 @@
         ]
       },
       "properties": {
-        "title": "Bellevuevägen 27 ",
-        "category": "Övrigt",
-        "date": "2022-10-20",
-        "description": "Preparerade kycklingbitar"
+        "identities": {
+          "uuid": "a3146ddb-c273-4164-ad0e-c0e9d1bed1f6",
+          "trygghund": 115,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bellevuevägen 27 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-20T00:00:00",
+          "before": "2022-10-21T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Preparerade kycklingbitar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1867,10 +4071,29 @@
         ]
       },
       "properties": {
-        "title": "Atriumparken ",
-        "category": "Övrigt",
-        "date": "2022-10-22",
-        "description": "Hund blev dålig av att ha ätit köttbulle"
+        "identities": {
+          "uuid": "2139ede9-6c18-4c8d-aab3-d98e56097331",
+          "trygghund": 116,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Atriumparken ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-22T00:00:00",
+          "before": "2022-10-23T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Hund blev dålig av att ha ätit köttbulle",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1883,10 +4106,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 5d ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-10-31",
-        "description": "Köttbulle med tre häftklamrar"
+        "identities": {
+          "uuid": "26ba1478-b2b9-48f8-9ed5-c0a06047117d",
+          "trygghund": 117,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 5d ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-10-31T00:00:00",
+          "before": "2022-11-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttbulle med tre häftklamrar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1899,10 +4141,29 @@
         ]
       },
       "properties": {
-        "title": "Isbergs Gata 10 ",
-        "category": "Övrigt",
-        "date": "2022-11-24",
-        "description": "Målsägande upptäckte ca 20 bitar choklad på innergården"
+        "identities": {
+          "uuid": "ea4c708e-c6b9-4e9f-8ab9-732fad680f3b",
+          "trygghund": 118,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Isbergs Gata 10 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-11-24T00:00:00",
+          "before": "2022-11-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Målsägande upptäckte ca 20 bitar choklad på innergården",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1915,10 +4176,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan 12 ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-11-25",
-        "description": "Bullar med metallföremål klippta i kors"
+        "identities": {
+          "uuid": "5ae1aa67-1169-42b4-9d4f-2e988c721a3a",
+          "trygghund": 119,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan 12 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-11-25T00:00:00",
+          "before": "2022-11-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med metallföremål klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1931,10 +4211,29 @@
         ]
       },
       "properties": {
-        "title": "Enskifteshagen ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-11-25",
-        "description": "Köttliknande bulle som innehöll ett vasst föremål"
+        "identities": {
+          "uuid": "a296c6b3-2e36-46d1-bbcc-949e2efd9bc1",
+          "trygghund": 120,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Enskifteshagen ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-11-25T00:00:00",
+          "before": "2022-11-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Köttliknande bulle som innehöll ett vasst föremål",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1947,10 +4246,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan 12",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-11-25",
-        "description": "Degklumpar med vassa metallplåtar"
+        "identities": {
+          "uuid": "f98e9495-8129-4798-b22b-2670327bc7b6",
+          "trygghund": 121,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan 12",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-11-25T00:00:00",
+          "before": "2022-11-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degklumpar med vassa metallplåtar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1963,10 +4281,29 @@
         ]
       },
       "properties": {
-        "title": "Roskildevägen ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-01",
-        "description": "Vetebullar preparerade med nubb/småspik längs en gata"
+        "identities": {
+          "uuid": "846e92e1-f449-4d4c-bd8e-b6d526dff91d",
+          "trygghund": 122,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Roskildevägen ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-01T00:00:00",
+          "before": "2022-12-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Vetebullar preparerade med nubb/småspik längs en gata",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1979,10 +4316,29 @@
         ]
       },
       "properties": {
-        "title": "John Ericssons väg/Pildammsvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-01",
-        "description": "Mindre brödbullar som preparerats med häftstift"
+        "identities": {
+          "uuid": "2d4a771a-2a79-412b-a786-d72b0a8b3698",
+          "trygghund": 123,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "John Ericssons väg/Pildammsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-01T00:00:00",
+          "before": "2022-12-02T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Mindre brödbullar som preparerats med häftstift",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -1995,10 +4351,29 @@
         ]
       },
       "properties": {
-        "title": "Bobergsängen 5 ",
-        "category": "Kött med vasst föremål",
-        "date": "2022-12-05",
-        "description": "Kycklingbit med flera små häftklamrar i"
+        "identities": {
+          "uuid": "e7e3be29-3fb7-4439-9c38-be9e8420a019",
+          "trygghund": 124,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bobergsängen 5 ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-05T00:00:00",
+          "before": "2022-12-06T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Kött med vasst föremål",
+            "description": "Kycklingbit med flera små häftklamrar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2011,10 +4386,29 @@
         ]
       },
       "properties": {
-        "title": "Norra Grängesbergsgatan 44",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-06",
-        "description": "Flera små brödbullar med metallbitar klippta som kors på hundrastplats"
+        "identities": {
+          "uuid": "f7788a77-c3f7-41ab-a419-cc17cac3372c",
+          "trygghund": 125,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Norra Grängesbergsgatan 44",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-06T00:00:00",
+          "before": "2022-12-07T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Flera små brödbullar med metallbitar klippta som kors på hundrastplats",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2027,10 +4421,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-18",
-        "description": "Bullar med stålbitar i"
+        "identities": {
+          "uuid": "34925d2a-cf03-4e30-bf4c-fc27bc4b0d42",
+          "trygghund": 126,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-18T00:00:00",
+          "before": "2022-12-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med stålbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2043,10 +4456,29 @@
         ]
       },
       "properties": {
-        "title": "Södra Promenaden",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-18",
-        "description": "Två bullar med metallbitar klippta som kors"
+        "identities": {
+          "uuid": "371c1cc5-1ccb-4ec8-a499-5f1b7a54268a",
+          "trygghund": 127,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Södra Promenaden",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-18T00:00:00",
+          "before": "2022-12-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Två bullar med metallbitar klippta som kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2059,10 +4491,29 @@
         ]
       },
       "properties": {
-        "title": "Kulladalsgatan 6",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-21",
-        "description": "Tio bullar med inbakade rakblad klippta i kors"
+        "identities": {
+          "uuid": "16c6d108-d148-475b-a8cf-8b6e039fb44c",
+          "trygghund": 128,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kulladalsgatan 6",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-21T00:00:00",
+          "before": "2022-12-22T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Tio bullar med inbakade rakblad klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2075,10 +4526,29 @@
         ]
       },
       "properties": {
-        "title": "Kulladalsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-21",
-        "description": "Gångbanan längs med gångbanan Kulladlalsgatan 6-10"
+        "identities": {
+          "uuid": "0d7d755c-3ecd-4e10-a1d3-280e38ef6139",
+          "trygghund": 129,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kulladalsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-21T00:00:00",
+          "before": "2022-12-22T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Gångbanan längs med gångbanan Kulladlalsgatan 6-10",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2091,10 +4561,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsgatan 30",
-        "category": "Övrigt",
-        "date": "2022-12-24",
-        "description": "6-7 chilifrukter utplacerade med en meters mellanrum"
+        "identities": {
+          "uuid": "f7c24360-4833-4334-95f1-ef59b0210678",
+          "trygghund": 130,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsgatan 30",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-24T00:00:00",
+          "before": "2022-12-25T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "6-7 chilifrukter utplacerade med en meters mellanrum",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2107,10 +4596,29 @@
         ]
       },
       "properties": {
-        "title": "Kamrergatan 27",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Hund ätit av brödbullar med inbakade metallbitar"
+        "identities": {
+          "uuid": "d9be7cd6-e42a-40b6-8557-5ca9a1403e28",
+          "trygghund": 131,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kamrergatan 27",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Hund ätit av brödbullar med inbakade metallbitar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2123,10 +4631,29 @@
         ]
       },
       "properties": {
-        "title": "Bokhållaregatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+        "identities": {
+          "uuid": "ee5a4681-b1a9-4599-908d-4beb0a4c6892",
+          "trygghund": 132,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bokhållaregatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bakade brödbullar med metallbitar klippta som ett kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2139,10 +4666,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Brödbullar med glas, \"fint rullade\""
+        "identities": {
+          "uuid": "b782e633-daa3-4bb3-b07a-e05b892ce4e8",
+          "trygghund": 133,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Brödbullar med glas, \"fint rullade\"",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2155,10 +4701,29 @@
         ]
       },
       "properties": {
-        "title": "Hantverkaregatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+        "identities": {
+          "uuid": "268c70c7-360d-4e9e-89ca-6cbfb77300eb",
+          "trygghund": 134,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Hantverkaregatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bakade brödbullar med metallbitar klippta som ett kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2171,10 +4736,29 @@
         ]
       },
       "properties": {
-        "title": "Henrik Smithsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+        "identities": {
+          "uuid": "fa0d9f80-7a79-423c-b65a-c065def272b2",
+          "trygghund": 135,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Henrik Smithsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bakade brödbullar med metallbitar klippta som ett kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2187,10 +4771,29 @@
         ]
       },
       "properties": {
-        "title": "Kamrergatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Bakade brödbullar med metallbitar klippta som ett kors"
+        "identities": {
+          "uuid": "bfbb02c3-a470-426d-bc7c-47a26c5f648d",
+          "trygghund": 136,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kamrergatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bakade brödbullar med metallbitar klippta som ett kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2203,10 +4806,29 @@
         ]
       },
       "properties": {
-        "title": "Karlskronaplan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Femton brödbitar med små glasbitar i"
+        "identities": {
+          "uuid": "9e4048b5-a712-40cd-9ff3-5e4df03092c7",
+          "trygghund": 137,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Karlskronaplan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Femton brödbitar med små glasbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2219,10 +4841,29 @@
         ]
       },
       "properties": {
-        "title": "Mäster Danielsgatan 5",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Metallbitar inbakade i sju fint rullade bulllar"
+        "identities": {
+          "uuid": "89c847f0-9304-4d4f-8518-c781950cce55",
+          "trygghund": 138,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Mäster Danielsgatan 5",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Metallbitar inbakade i sju fint rullade bulllar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2235,10 +4876,29 @@
         ]
       },
       "properties": {
-        "title": "Ronnebygatan/Falsterbog",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-27",
-        "description": "Två bakade brödbullar innehållande metallbitar klippta som ett kors"
+        "identities": {
+          "uuid": "e1ba84cb-35f6-45a2-87d2-0cd3a0f17694",
+          "trygghund": 139,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Ronnebygatan/Falsterbog",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-27T00:00:00",
+          "before": "2022-12-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Två bakade brödbullar innehållande metallbitar klippta som ett kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2251,10 +4911,29 @@
         ]
       },
       "properties": {
-        "title": "Pilåkersvägen 7",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2022-12-31",
-        "description": "Bullar med glas i"
+        "identities": {
+          "uuid": "9d6fcaf9-82d6-469d-b6e7-fdd07a4eeb70",
+          "trygghund": 140,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pilåkersvägen 7",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2022-12-31T00:00:00",
+          "before": "2023-01-01T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullar med glas i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2267,10 +4946,29 @@
         ]
       },
       "properties": {
-        "title": "Carl Gustavs väg",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-07",
-        "description": "Degbullar med metallbitar klippta i kors"
+        "identities": {
+          "uuid": "bfa8ef9d-8384-4812-bf39-038945152c1f",
+          "trygghund": 141,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Carl Gustavs väg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-07T00:00:00",
+          "before": "2023-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2283,10 +4981,29 @@
         ]
       },
       "properties": {
-        "title": "Roskildevägen 4",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-07",
-        "description": "Degbullar med metallbitar klippta i kors"
+        "identities": {
+          "uuid": "f782f637-dffa-4ce9-84be-c581498bc92b",
+          "trygghund": 142,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Roskildevägen 4",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-07T00:00:00",
+          "before": "2023-01-08T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2299,10 +5016,29 @@
         ]
       },
       "properties": {
-        "title": "Bodekullsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-09",
-        "description": "Degbullar med metallbitar klippta i kors"
+        "identities": {
+          "uuid": "ace7a9a4-7ff9-4c95-9718-fd57c2d473d0",
+          "trygghund": 143,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bodekullsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-09T00:00:00",
+          "before": "2023-01-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2315,10 +5051,29 @@
         ]
       },
       "properties": {
-        "title": "Själlandstorget",
-        "category": "Övrigt",
-        "date": "2023-01-09",
-        "description": "Korvbit, inga föremål i"
+        "identities": {
+          "uuid": "1bc006f7-d532-4fb1-8343-b97fd68c2150",
+          "trygghund": 144,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Själlandstorget",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-09T00:00:00",
+          "before": "2023-01-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Korvbit, inga föremål i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2331,10 +5086,29 @@
         ]
       },
       "properties": {
-        "title": "Bodekullsgatan ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-10",
-        "description": "Degbullar metallbitar klippta i kors"
+        "identities": {
+          "uuid": "5b215a10-8ee6-447e-8793-ee2f4d1f2185",
+          "trygghund": 145,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Bodekullsgatan ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-10T00:00:00",
+          "before": "2023-01-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2347,10 +5121,29 @@
         ]
       },
       "properties": {
-        "title": "Spånehusvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-10",
-        "description": "Degbullar med röda metallbitar klippta i kors"
+        "identities": {
+          "uuid": "797e69df-cdc5-456c-a28e-49f57ea30308",
+          "trygghund": 146,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Spånehusvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-10T00:00:00",
+          "before": "2023-01-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med röda metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2363,10 +5156,29 @@
         ]
       },
       "properties": {
-        "title": "Torekovsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-10",
-        "description": "Degbullar med metallbitar klippta i kors"
+        "identities": {
+          "uuid": "b1f9d110-2fab-4835-8605-520556e52134",
+          "trygghund": 147,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torekovsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-10T00:00:00",
+          "before": "2023-01-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2379,10 +5191,29 @@
         ]
       },
       "properties": {
-        "title": "Östra Farmvägen 29",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-10",
-        "description": "Degbullar med metallbitar klippta i kors"
+        "identities": {
+          "uuid": "e836a9fb-c921-453e-8464-4245cf4d8683",
+          "trygghund": 148,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Östra Farmvägen 29",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-10T00:00:00",
+          "before": "2023-01-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar klippta i kors",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2395,10 +5226,29 @@
         ]
       },
       "properties": {
-        "title": "Ribersborgsstigen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-11",
-        "description": "Mörkt bröd med metallbitar i"
+        "identities": {
+          "uuid": "869222f8-18a4-4ba7-bcbd-104d64586dbc",
+          "trygghund": 149,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Ribersborgsstigen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-11T00:00:00",
+          "before": "2023-01-12T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Mörkt bröd med metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2411,10 +5261,29 @@
         ]
       },
       "properties": {
-        "title": "Baltiska Vägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Pildamsparken"
+        "identities": {
+          "uuid": "516b70c8-e2f4-44c7-a380-19b398350d34",
+          "trygghund": 150,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Baltiska Vägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Pildamsparken",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2427,10 +5296,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken ",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Pildammsparken"
+        "identities": {
+          "uuid": "e6d82d39-b0c6-4f47-835a-ced65de3e4e6",
+          "trygghund": 151,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken ",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Pildammsparken",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2443,10 +5331,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken/Annebergsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Degbullar med glas och metallbitar i"
+        "identities": {
+          "uuid": "c6cb1603-a227-4984-ab62-21530f8b15c5",
+          "trygghund": 152,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken/Annebergsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med glas och metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2459,10 +5366,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken/Annebergsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Degbullar med glas och metallbitar i"
+        "identities": {
+          "uuid": "3ae5fb77-50c3-4e94-8b69-b443df9597d5",
+          "trygghund": 153,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken/Annebergsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med glas och metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2475,10 +5401,29 @@
         ]
       },
       "properties": {
-        "title": "Annebergsgatan 5A",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Degbullar med metallbitar i"
+        "identities": {
+          "uuid": "a9ff0484-03fb-48fd-9511-41df90daa21a",
+          "trygghund": 154,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Annebergsgatan 5A",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2491,10 +5436,29 @@
         ]
       },
       "properties": {
-        "title": "Borgmästaregården",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Hund spottade ut degbulle med metallbitar"
+        "identities": {
+          "uuid": "c0f98aaa-78c7-4cdd-99e4-0b855efc3813",
+          "trygghund": 155,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Borgmästaregården",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Hund spottade ut degbulle med metallbitar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2507,10 +5471,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-16",
-        "description": "Hund åt något från marken vid utegymmet"
+        "identities": {
+          "uuid": "6fe00883-3978-4596-9976-29f034866d6d",
+          "trygghund": 156,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-16T00:00:00",
+          "before": "2023-01-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Hund åt något från marken vid utegymmet",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2523,10 +5506,29 @@
         ]
       },
       "properties": {
-        "title": "Margaretavägen",
-        "category": "Övrigt",
-        "date": "2023-01-20",
-        "description": "Sandkorv utan innehåll"
+        "identities": {
+          "uuid": "52a20044-b688-47ec-9457-87b65db8c3c4",
+          "trygghund": 157,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Margaretavägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-20T00:00:00",
+          "before": "2023-01-21T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Sandkorv utan innehåll",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2539,10 +5541,29 @@
         ]
       },
       "properties": {
-        "title": "Gustav Adolfs Torg 3",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-01-25",
-        "description": "Degbullar med metallbitar i"
+        "identities": {
+          "uuid": "41f16522-4c6a-4f1d-bc12-511b0202f828",
+          "trygghund": 158,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gustav Adolfs Torg 3",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-25T00:00:00",
+          "before": "2023-01-26T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Degbullar med metallbitar i",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2555,10 +5576,29 @@
         ]
       },
       "properties": {
-        "title": "Skräddarebyn",
-        "category": "Övrigt",
-        "date": "2023-01-27",
-        "description": "Hund fick frätskador i munnen efter att ha rört en petflaska med grumligt innehåll"
+        "identities": {
+          "uuid": "21381e25-2cc4-4499-9e52-5429447724d7",
+          "trygghund": 159,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Skräddarebyn",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-01-27T00:00:00",
+          "before": "2023-01-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Hund fick frätskador i munnen efter att ha rört en petflaska med grumligt innehåll",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2571,10 +5611,29 @@
         ]
       },
       "properties": {
-        "title": "Andrégatan 13",
-        "category": "Övrigt",
-        "date": "2023-02-17",
-        "description": "Brödskivor utanför porten"
+        "identities": {
+          "uuid": "c05cfbfc-fc3a-4f26-9067-bfe95057d9f3",
+          "trygghund": 160,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Andrégatan 13",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-02-17T00:00:00",
+          "before": "2023-02-18T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Brödskivor utanför porten",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2587,10 +5646,29 @@
         ]
       },
       "properties": {
-        "title": "Vagnmakarebyn 3a",
-        "category": "Övrigt",
-        "date": "2023-02-27",
-        "description": "PET-flaska \"med gift\" hittad i buskage"
+        "identities": {
+          "uuid": "b2c5f385-ad74-4e9f-8d3d-3b2604bf80cb",
+          "trygghund": 161,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Vagnmakarebyn 3a",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-02-27T00:00:00",
+          "before": "2023-02-28T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "PET-flaska \"med gift\" hittad i buskage",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2603,10 +5681,29 @@
         ]
       },
       "properties": {
-        "title": "Kungsparken",
-        "category": "Övrigt",
-        "date": "2023-03-15",
-        "description": "Tjugotal brödbullar"
+        "identities": {
+          "uuid": "663c4a97-d67c-4e48-92bb-79dc4d0b3816",
+          "trygghund": 162,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Kungsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-03-15T00:00:00",
+          "before": "2023-03-16T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Tjugotal brödbullar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2619,10 +5716,29 @@
         ]
       },
       "properties": {
-        "title": "Sorgenfrivägen 27",
-        "category": "Övrigt",
-        "date": "2023-03-21",
-        "description": "Köttbitar / ben"
+        "identities": {
+          "uuid": "0c164d5f-6388-4b14-b13c-0a676f8a9c78",
+          "trygghund": 163,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sorgenfrivägen 27",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-03-21T00:00:00",
+          "before": "2023-03-22T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Övrigt",
+            "description": "Köttbitar / ben",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2635,10 +5751,29 @@
         ]
       },
       "properties": {
-        "title": "Sallerupsvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-04-10",
-        "description": "Flera brödbullar utslängda på gång/cykelbana invid Sallerupsvägen, en bulle innanför stängslet till kyrkogården "
+        "identities": {
+          "uuid": "2c36a2c8-8678-480f-b25e-7fdc5f9db220",
+          "trygghund": 164,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Sallerupsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-04-10T00:00:00",
+          "before": "2023-04-11T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Flera brödbullar utslängda på gång/cykelbana invid Sallerupsvägen, en bulle innanför stängslet till kyrkogården ",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2651,10 +5786,29 @@
         ]
       },
       "properties": {
-        "title": "Eriksfältsgatan/Cykelbana",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-04-18",
-        "description": "Nio bullar, minst en med metallstjärna i, slängda på cykelbana i tunnel under Eriksfältsgatan"
+        "identities": {
+          "uuid": "1e8313c3-50b4-4fcc-b85b-81db55d8bc15",
+          "trygghund": 165,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Eriksfältsgatan/Cykelbana",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-04-18T00:00:00",
+          "before": "2023-04-19T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Nio bullar, minst en med metallstjärna i, slängda på cykelbana i tunnel under Eriksfältsgatan",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2667,10 +5821,29 @@
         ]
       },
       "properties": {
-        "title": "Ögårdsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2023-12-28",
-        "description": "En kvinna i 75-årsåldern som setts placera ut föremål på marken blir gripen av polis, i en behållare hade hon glasbitar och degklumpar"
+        "identities": {
+          "uuid": "16235b0c-7711-4569-9a91-e3aba53137d1",
+          "trygghund": 166,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Ögårdsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2023-12-28T00:00:00",
+          "before": "2023-12-29T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "En kvinna i 75-årsåldern som setts placera ut föremål på marken blir gripen av polis, i en behållare hade hon glasbitar och degklumpar",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2683,10 +5856,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-01-19",
-        "description": "Ett trettiotal små brödbullar med ”rakblad” i hittades av kvinna som rastade sin hund"
+        "identities": {
+          "uuid": "74b7039c-d525-4d6a-abf4-b96de4cebcaf",
+          "trygghund": 167,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-01-19T00:00:00",
+          "before": "2024-01-20T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Ett trettiotal små brödbullar med ”rakblad” i hittades av kvinna som rastade sin hund",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2699,10 +5891,29 @@
         ]
       },
       "properties": {
-        "title": "Baskemöllegatan 6A",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-01-28",
-        "description": "Bullarna hittades vid en buske vid åtta-nio-tiden"
+        "identities": {
+          "uuid": "de39952a-76d8-4132-be75-9576c2d6090b",
+          "trygghund": 168,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Baskemöllegatan 6A",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-01-28T00:00:00",
+          "before": "2024-01-29T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullarna hittades vid en buske vid åtta-nio-tiden",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2715,10 +5926,29 @@
         ]
       },
       "properties": {
-        "title": "Torekovsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-01-29",
-        "description": "Bullen hittades längs ett staket vid ett grönområde"
+        "identities": {
+          "uuid": "b3f0e551-9afe-4b8e-8e40-20606613470b",
+          "trygghund": 169,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Torekovsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-01-29T00:00:00",
+          "before": "2024-01-30T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Bullen hittades längs ett staket vid ett grönområde",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2731,10 +5961,29 @@
         ]
       },
       "properties": {
-        "title": "Uppsalagatan (båda trottoarerna), trottoarerna längs Upplandsplan, Upplandsgatan, trottoaren på Värmlandsgatan, innergård på Värmlandsgatan, trottoaren Värmlandsplan, parken vid Värmlandsplan, trottoaren Flensburgsgatan.",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-01-29",
-        "description": "Hund skadad på Värmlandsgatan – svalde två stjärnor • Aldrig tidigare har det hittats så många bullar spritt över ett par kvarter"
+        "identities": {
+          "uuid": "98bb7ffb-6aa4-4a3d-821f-7f815f981cc8",
+          "trygghund": 170,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Uppsalagatan (båda trottoarerna), trottoarerna längs Upplandsplan, Upplandsgatan, trottoaren på Värmlandsgatan, innergård på Värmlandsgatan, trottoaren Värmlandsplan, parken vid Värmlandsplan, trottoaren Flensburgsgatan.",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-01-29T00:00:00",
+          "before": "2024-01-30T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Hund skadad på Värmlandsgatan – svalde två stjärnor • Aldrig tidigare har det hittats så många bullar spritt över ett par kvarter",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2747,10 +5996,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunneln under Sallerupsvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-05",
-        "description": "Tjugotal brödbullar hittade vid gångtunnel under Sallerupsvägen"
+        "identities": {
+          "uuid": "cdab4b49-fddd-4327-b2cc-2e421ae20124",
+          "trygghund": 171,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunneln under Sallerupsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-05T00:00:00",
+          "before": "2024-02-06T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Tjugotal brödbullar hittade vid gångtunnel under Sallerupsvägen",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2763,10 +6031,29 @@
         ]
       },
       "properties": {
-        "title": "Cykelbron över inre ringvägen vid trafikplats Fosieby",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-09",
-        "description": "Omkring 30 bullar med metall i hittas på Hermodsdal, på bron över Inre Ringvägen mot Lindängen och i gångtunneln mot Gullviksborg"
+        "identities": {
+          "uuid": "cae7faef-cbca-47e4-8f0b-6803b975c1d7",
+          "trygghund": 172,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Cykelbron över inre ringvägen vid trafikplats Fosieby",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-09T00:00:00",
+          "before": "2024-02-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Omkring 30 bullar med metall i hittas på Hermodsdal, på bron över Inre Ringvägen mot Lindängen och i gångtunneln mot Gullviksborg",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2779,10 +6066,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunneln mellan Hermodsdal och Gullviksborg",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-09",
-        "description": "10-tal bullar hittas i gångtunneln"
+        "identities": {
+          "uuid": "82cf1be2-c235-4cc0-b421-2f9aae498fc1",
+          "trygghund": 173,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunneln mellan Hermodsdal och Gullviksborg",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-09T00:00:00",
+          "before": "2024-02-10T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "10-tal bullar hittas i gångtunneln",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2795,10 +6101,29 @@
         ]
       },
       "properties": {
-        "title": "Lugna gatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-13",
-        "description": "Fem bullar hittade utanför ett flerfamiljshus på Lugna gatan"
+        "identities": {
+          "uuid": "e61f83a8-bf2a-4c8e-a8bd-6b722c412d20",
+          "trygghund": 174,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Lugna gatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-13T00:00:00",
+          "before": "2024-02-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Fem bullar hittade utanför ett flerfamiljshus på Lugna gatan",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2811,10 +6136,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunneln under Föreningsgatan, August Palms plats",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-13",
-        "description": "Roisin Kenny hittade 26 bullar i och nära gångtunneln vid Stadshuset"
+        "identities": {
+          "uuid": "e43368df-850b-4122-9d6a-7a96e036c034",
+          "trygghund": 175,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunneln under Föreningsgatan, August Palms plats",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-13T00:00:00",
+          "before": "2024-02-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Roisin Kenny hittade 26 bullar i och nära gångtunneln vid Stadshuset",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2827,10 +6171,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunnel Kungsgatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-16",
-        "description": "Ett 20-tal bullar med metallföremål i hittade på Kungsgatan, vid gångtunneln under Amiralsgatan"
+        "identities": {
+          "uuid": "29ae52f1-fc90-461e-9ab8-decd51fa5b55",
+          "trygghund": 176,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunnel Kungsgatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-16T00:00:00",
+          "before": "2024-02-17T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Ett 20-tal bullar med metallföremål i hittade på Kungsgatan, vid gångtunneln under Amiralsgatan",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2843,10 +6206,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunnel Nobelvägen/Lönngatan",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-20",
-        "description": "Mellan 40 och 50 bullar hittades i gångtunneln Nobelvägen-Lönngatan"
+        "identities": {
+          "uuid": "67df631a-9ced-4355-9728-34b8492f3913",
+          "trygghund": 177,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunnel Nobelvägen/Lönngatan",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-20T00:00:00",
+          "before": "2024-02-21T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Mellan 40 och 50 bullar hittades i gångtunneln Nobelvägen-Lönngatan",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2859,10 +6241,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunnel Munkhättegatan-Rödkullastigen.",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-02-26",
-        "description": "Fem bullar med metall inuti hittades i gångtunneln Munkhättegatan-Rödkullastigen"
+        "identities": {
+          "uuid": "8b108376-d987-4262-84e1-8c507f7de6f7",
+          "trygghund": 178,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunnel Munkhättegatan-Rödkullastigen.",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-02-26T00:00:00",
+          "before": "2024-02-27T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Fem bullar med metall inuti hittades i gångtunneln Munkhättegatan-Rödkullastigen",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2875,10 +6276,29 @@
         ]
       },
       "properties": {
-        "title": "Gångtunnel Sallerupsvägen",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-03-05",
-        "description": "50-tal bullar med metallföremål hittades i gångtunneln"
+        "identities": {
+          "uuid": "ba3f4c6f-b7ab-4d83-bc17-648ec8dbfd40",
+          "trygghund": 179,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Gångtunnel Sallerupsvägen",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-03-05T00:00:00",
+          "before": "2024-03-06T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "50-tal bullar med metallföremål hittades i gångtunneln",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     },
     {
@@ -2891,10 +6311,29 @@
         ]
       },
       "properties": {
-        "title": "Pildammsparken",
-        "category": "Bulle/bullar med vasst föremål",
-        "date": "2024-03-13",
-        "description": "Ett 30-tal bullar med metallföremål hittade i Pildammsparken"
+        "identities": {
+          "uuid": "9c484a5d-b5e8-4bfc-9945-6fb90b2e51b8",
+          "trygghund": 180,
+          "polisen.se": null
+        },
+        "location": {
+          "description": "Pildammsparken",
+          "precisionMeters": null
+        },
+        "found": {
+          "after": "2024-03-13T00:00:00",
+          "before": "2024-03-14T00:00:00"
+        },
+        "findings": [
+          {
+            "category": "Bulle/bullar med vasst föremål",
+            "description": "Ett 30-tal bullar med metallföremål hittade i Pildammsparken",
+            "count": {
+              "from": null,
+              "to": null
+            }
+          }
+        ]
       }
     }
   ]
